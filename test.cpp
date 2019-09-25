@@ -20,6 +20,7 @@ int main(int argc, char *argv[]) {
         } else { // Code for testing
             cout << "Query was: " + input + "\n";
             // TO DO
+            
         }
     }
     return 0;
