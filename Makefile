@@ -5,7 +5,7 @@ CLASS =invert.cpp
 OBJ =invert
 CLASS2 =test.cpp 
 OBJ2 =test
-PARAMS =
+PARAMS = 1
 all: 
 	$(CC) -o $(OBJ) $(CLASS) $(CFLAGS)
 
