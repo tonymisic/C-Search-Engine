@@ -11,15 +11,18 @@
 #include <string.h>
 #include <fstream>
 #include <map>
+#include <unordered_map>
 #include <iterator>
 #include <locale>
+#include "porter2_stemmer.h"
 using namespace std;
 
 // globals
 map<string, int> mapping; // Ordered Map (Sorted alphabetically by key)
 map<string, int> stopwords;
-map<int, pair<int, vector<int>>> postings_map; // ID -> (TERM FREQ, LIST OF LOCATIONS IN DOC)
 bool STOP_WORD_FLAG = true;
+bool STEMMING_FLAG = true;
+map<string, pair<int, vector<pair<int, vector<int>>>>> postings_map;
 
 // --- INPUT --- //
 string document_collection_file = "data/cacm.all";
@@ -41,15 +44,20 @@ int main(int argc, char *argv[]) {
     ifstream in_file(document_collection_file);
     ofstream posts_out_file(postings_lists_file);
     int position_counter = 1;
-    int occurences = 0;
-    vector<int> position_list;
+    map<string, int> occurences;
+    map<string, vector<int>> positions;
     string line;
+
     if (*argv[1] == '0') {
         STOP_WORD_FLAG = false;
+    }
+    if (*argv[2] == '0') {
+        STEMMING_FLAG = false;
     } 
+
     if (in_file.is_open()) {
         std::cout << "Getting data...\n";
-        int current_ID = 0;
+        int current_ID = 1;
         while ( std::getline(in_file, line) ) {
             vector<string> w = split(line);
             string i_l = ".I";
@@ -58,9 +66,9 @@ int main(int argc, char *argv[]) {
             }
             if (line == ".T" || line == ".W") {
                 if (line == ".T") {
-                    position_counter = 1;
-                    occurences = 1;
-                    position_list.clear();
+                    position_counter = 0;
+                    occurences.clear();
+                    positions.clear();
                 }
                 std::getline(in_file, line);
                 // loop for one doc with associated ID
@@ -69,16 +77,27 @@ int main(int argc, char *argv[]) {
                     for (int i = 0; i < words.size(); i++) {
                         vector<string> v = delimit(lower(words[i]));
                         for (int j = 0; j < v.size(); j++) {
-                            string temp = v[j]; // each term = temp at some point
-                            position_list.insert(position_list.end(), position_counter);
+                            string temp = v[j];
+                            if (STEMMING_FLAG) {
+                                Porter2Stemmer::stem(v[j]);
+                                temp = v[j];
+                            } else {
+                                temp = v[j];
+                            }
                             position_counter++;
-                            occurences++;
                             if (STOP_WORD_FLAG) {
                                 if (!stop_word_removal(temp)) {
                                     if (mapping[temp] > 0) {
                                         mapping[temp] += 1;
                                     } else {
                                         mapping[temp] = 1;
+                                    }
+                                    if (occurences[temp] > 0) {
+                                        occurences[temp] += 1;
+                                        positions[temp].insert(positions[temp].end(), position_counter);
+                                    } else {
+                                        occurences[temp] = 1;
+                                        positions[temp].insert(positions[temp].end(), position_counter);
                                     }
                                 }
                             } else {
@@ -87,18 +106,25 @@ int main(int argc, char *argv[]) {
                                 } else {
                                     mapping[temp] = 1;
                                 }
+                                if (occurences[temp] > 0) {
+                                    occurences[temp] += 1;
+                                    positions[temp].insert(positions[temp].end(), position_counter);
+                                } else {
+                                    occurences[temp] = 1;
+                                    positions[temp].insert(positions[temp].end(), position_counter);
+                                }
                             }
                         }
+                        
                     }
                     std::getline(in_file, line);
                 }
-                posts_out_file << current_ID << " " << occurences << " ";
-                for (int k = 0; k < position_list.size(); k++) {
-                    if (k != position_list.size() - 1) {
-                        posts_out_file << position_list[k] << ",";
-                    } else {
-                        posts_out_file << position_list[k] << endl;
-                    }
+                for (auto& i : positions) {
+                    pair <int, vector<int>> p;
+                    p.first = current_ID; 
+                    p.second = positions[i.first];
+                    postings_map[i.first].first = occurences[i.first];
+                    postings_map[i.first].second.insert(postings_map[i.first].second.end(), p);
                 }
             }
         }
@@ -106,6 +132,23 @@ int main(int argc, char *argv[]) {
         for (auto& t : mapping) {
             out_dict_file << t.first << " "  << t.second << "\n";
         }
+        //     term         currendID        Total-in-ID [list of locations]
+        // map<string, pair<int, vector<pair<int, vector<int>>>>>
+        for (auto& t : postings_map) {
+            for (int i = 0; i < t.second.second.size(); i++) {
+                posts_out_file << t.second.second[i].first << " ";
+                posts_out_file << t.second.second[i].second.size() << " ";
+                for (int j = 0; j < t.second.second[i].second.size(); j++) {
+                    if (j != t.second.second[i].second.size() - 1) {
+                        posts_out_file << t.second.second[i].second[j] << ",";
+                    } else {
+                        posts_out_file << t.second.second[i].second[j] << " +++ ";
+                    }
+                }
+            }
+            posts_out_file << endl;
+        }
+        posts_out_file.close();
         in_file.close();
         out_dict_file.close();
         std::cout << "Data received.\n";

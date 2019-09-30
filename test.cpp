@@ -17,9 +17,8 @@ int main(int argc, char *argv[]) {
         cin >> input;
         if (input == "ZZEND") {
             break;
-        } else { // Code for testing
+        } else {
             cout << "Query was: " + input + "\n";
-            // TO DO
             
         }
     }
