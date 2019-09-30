@@ -31,6 +31,7 @@ string stop_words_file = "data/stopwords.txt";
 // --- OUTPUT --- //
 string dictonary_file = "output/dictonary.txt";
 string postings_lists_file = "output/postings.txt";
+string titles = "output/titles.txt";
 
 // functions
 vector<string> split(string text);
@@ -43,6 +44,7 @@ int main(int argc, char *argv[]) {
     fill_stop_words();
     ifstream in_file(document_collection_file);
     ofstream posts_out_file(postings_lists_file);
+    ofstream document_titles(titles);
     int position_counter = 1;
     map<string, int> occurences;
     map<string, vector<int>> positions;
@@ -70,7 +72,12 @@ int main(int argc, char *argv[]) {
                     occurences.clear();
                     positions.clear();
                 }
-                std::getline(in_file, line);
+                if (line != ".W") {
+                    std::getline(in_file, line);
+                    document_titles << current_ID << " " << line << "\n";
+                } else {
+                    std::getline(in_file, line);
+                }
                 // loop for one doc with associated ID
                 while (line != ".X" && line != ".B" && line != ".A" && line != ".N" && line != ".K" && line != ".I" && line != ".C") {
                     vector<string> words = split(line);
@@ -142,7 +149,7 @@ int main(int argc, char *argv[]) {
                     if (j != t.second.second[i].second.size() - 1) {
                         posts_out_file << t.second.second[i].second[j] << ",";
                     } else {
-                        posts_out_file << t.second.second[i].second[j] << " +++ ";
+                        posts_out_file << t.second.second[i].second[j] << " ";
                     }
                 }
             }
@@ -151,6 +158,7 @@ int main(int argc, char *argv[]) {
         posts_out_file.close();
         in_file.close();
         out_dict_file.close();
+        document_titles.close();
         std::cout << "Data received.\n";
     }
     return 0;
