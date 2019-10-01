@@ -37,18 +37,11 @@ int main(int argc, char *argv[]) {
         cout << "Please enter a query: ";
         cin >> input;
         if (input == "ZZEND") {
-            ifstream posts_in_file(postings_lists_file);
-            ifstream dictonary_in_file(dictonary_file);
-            ifstream titles_in_file(titles_file);
-            posts_in_file.close();
-            dictonary_in_file.close();
-            titles_in_file.close();
             break;            
         } else {
             auto start = chrono::system_clock::now(); // start time
             ifstream posts_in_file(postings_lists_file);
             ifstream dictonary_in_file(dictonary_file);
-            ifstream titles_in_file(titles_file);
             
             string line = "";
             string title_line = "";
@@ -79,6 +72,7 @@ int main(int argc, char *argv[]) {
                     if (i == count) {
                         vector<string> temp3 = split(line);
                         printf("Doc ID | Freq. | Positions Document | Document Title\n");
+                        
                         for (int j = 0; j < temp3.size(); j++) {
                             if (j % 3 == 0) {
                                 printf("%6s |",temp3[j].c_str());
@@ -89,25 +83,26 @@ int main(int argc, char *argv[]) {
                             }
                             if (j % 3 == 2) {
                                 printf("%19s | ",temp3[j].c_str());
+                                ifstream titles_in_file(titles_file);
                                 int t = atoi(ID.c_str());
                                 for (int k = 1; k <= t; k++) {
                                     std::getline(titles_in_file, title_line);
                                     if (k == t) {
                                         vector<string> temp = split(title_line);
                                         for (int m = 1; m < temp.size(); m++) {
-                                            printf("%s ", temp[m].c_str());
+                                            cout << temp[m] << " ";
                                         }
                                         printf("\n");
                                         break;
                                     }
                                 }
+                                titles_in_file.close();
                             }
                         }
                        
                     }
                 }
             }
-            
             auto end = chrono::system_clock::now(); // end time
             chrono::duration<double> elapsed_seconds = end-start;
             run_times.insert(run_times.end(), elapsed_seconds.count());
