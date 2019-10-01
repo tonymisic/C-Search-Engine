@@ -103,6 +103,8 @@ int main(int argc, char *argv[]) {
                     }
                 }
             }
+            dictonary_in_file.close();
+            posts_in_file.close();
             auto end = chrono::system_clock::now(); // end time
             chrono::duration<double> elapsed_seconds = end-start;
             run_times.insert(run_times.end(), elapsed_seconds.count());
