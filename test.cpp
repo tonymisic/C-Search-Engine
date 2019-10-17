@@ -12,7 +12,7 @@
 #include <iterator>
 #include <chrono>
 #include <string.h>
-
+#include "porter2_stemmer.h"
 using namespace std;
 
 // --- INPUT --- //
@@ -42,7 +42,7 @@ int main(int argc, char *argv[]) {
             auto start = chrono::system_clock::now(); // start time
             ifstream posts_in_file(postings_lists_file);
             ifstream dictonary_in_file(dictonary_file);
-            
+            Porter2Stemmer::stem(input);
             string line = "";
             string title_line = "";
             bool FOUND = false;
@@ -56,11 +56,6 @@ int main(int argc, char *argv[]) {
                 if (input == temp[0]) {
                     cout << "Overall Frequency: " << temp[1] << endl;
                     FOUND = true;
-                    // for (int i = 0; i < 10; i++) {
-                    //     std::getline(dictonary_in_file, line);
-                    //     vector<string> temp2 = split(line);
-                    //     next_ten.insert(next_ten.end(), temp2[0]);
-                    // }
                     break;
                 }
             }
@@ -136,11 +131,11 @@ vector<string> split(string text) {
 vector<string> delimit(string text) {
     char * pch;
     vector<string> result;
-    pch = strtok ((char*)text.c_str(),">");
+    pch = strtok ((char*)text.c_str()," ");
     while (pch != NULL) {
         string tmp = pch;
         result.insert(result.end(), tmp);
-        pch = strtok(NULL, ">");
+        pch = strtok(NULL, " ");
     }
     return result;
 }
