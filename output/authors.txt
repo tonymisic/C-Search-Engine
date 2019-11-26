@@ -1,0 +1,3118 @@
+1 Perlis, A. J.
+2 Sugai, I.
+3 Friedman, M. D.
+5 Wadey, W. G.
+6 Muller, M. E.
+8 Friedman, M. D.
+9 Conway, M. E.
+11 Strong, J.
+12 Call, D. H.
+14 Strong, J.
+15 Giblin, J.
+16 Jeeves, T. A.
+17 Ershov, A. P.
+18 Adams, E. S.
+20 Wegstein, J. H.
+21 Voorhees, E. A.
+22 Morris, E. F.
+23 Kautz, W. H.
+24 Sisson, R. L.
+25 Holt, A. W.
+26 Bemer, R. W.
+27 Randels, J. B.
+28 Corley, H. P. T.
+29 Selden, W.
+30 Wolpe, H.
+31 Grumette, M.
+32 Halpern, M.
+33 Kenny, B. C.
+34 Wilf, H. S.
+35 Bemer, R. W.
+36 Conway, R. W.
+37 Humphrey, S. M.
+38 Irons, E. T.
+39 Wolfe, P.
+40 Buchholz, W.
+41 Nadler, M.
+42 Sarafyan, D.
+43 Greenwald, I. D.
+44 Knuth, D. E.
+45 Gant, W. T.
+46 Codd, E. F.
+47 Zaitzeff, E. M.
+48 Nadler, M.
+49 Fike, C. T.
+50 Hamblen, J. W.
+51 Gorn, S.
+52 Cook, J. M.
+54 Brittenham, W. R.
+55 Kaner, H.
+58 Machmudov, U. A.
+60 Wersan, S. J.
+61 Hornick, S. D.
+62 Lesh, F. H.
+63 Li, S. T.
+64 Green, J.
+65 Dijkstra, E. W.
+66 Bemer, R. W.
+67 Blachman, N. M.
+68 Fein, L.
+69 Hamblen, J. W.
+70 Aegerter, M. J.
+71 Bagley, P. R.
+72 Hollingsworth, J.
+73 Gschwind, H. W.
+74 Shell, D. L.
+75 Chow, W. M.
+76 Taranto, D.
+77 Arden, B.
+78 Wouk, A.
+79 Schecher, H.
+80 Schwartz, B. L.
+81 Gleissner, G. H.
+82 Williams, F. A.
+83 Carr III, J. W.
+85 Carr III, J. W.
+86 Controller General of the United States to the Congress of the United States
+87 Muller, M. E.
+88 Hicks, J. S.
+89 Larson, E. H.
+90 Ercoli, P.
+91 Gilman, R. E.
+92 Bemer, R. W.
+93 Wegstein, J. H.
+94 Howell, J.R.
+95 Powers, J. E.
+96 Hansen, R. C.
+97 Luebbert, Capt. W. F.
+98 Sheridan, P. B.
+99 Green, J.
+100 Carr III, J. W.
+101 Nather, V.
+102 Curtz, T. B.
+103 Farbman, D.
+104 Moore, C. J.
+105 Price, R. A.
+106 Collins, G. E.
+107 Pope, D. A.
+108 Dimsdale, B.
+109 Lubkin, S.
+110 Ferguson, D. E.
+111 Ellenberger, K. W.
+112 Ellenberger, K. W.
+113 Bemer, R. W.
+114 Smith, H. J.
+115 Wheeling, R. F.
+116 Rogers, J. L.
+117 Nagler, H.
+118 Speckhard, A. E.
+119 Andrus, J. F.
+120 Sefton, P.
+121 Holt, A.
+122 DeWitte, L.
+123 Masterson Jr., K. S.
+124 Silver, R.
+125 Mackinney, J. G.
+126 Mackinney, J. G.
+127 Silver, R.
+128 Herroit, J. G.
+129 Forsythe, G. E.
+130 Leavenworth, B.
+131 Leavenworth, B.
+132 Feurzeig, W.
+133 Oser, H.
+134 Borsch-Supan, W.
+135 Reeves, R. F.
+136 Ingerman, P. Z.
+137 Swift, C. J.
+138 Voorhees, E. A.
+139 Kenyon, R. R.
+140 Forsythe, G. E.
+141 Yarbrough, L. D.
+142 Sherman, P. M.
+143 Romberg, A.
+144 Bemer, R. W.
+145 Hollingsworth, J.
+146 Katz, D. L.
+148 Reeves, R. F.
+149 Dickson, J. C.
+150 Floyd, R. W.
+151 Sprague III, C. D.
+152 Forsythe, G. E.
+153 Blatt, J. M.
+154 Berin, A.
+155 Fredkin, E.
+156 Rosin, R. F.
+157 Reeves, R. F.
+158 Thacher Jr., H. C.
+159 Thacher Jr., H. C.
+160 Thacher Jr., H. C.
+161 Barrett, J. A.
+162 Frieden, H.
+163 Kutler, S. S.
+164 Smith Jr., H. J.
+165 Huskey, H. D.
+166 Luebbert, W. F.
+167 McIsaac, P.
+168 Codd, E. F.
+169 Holmstrom, J. E.
+170 Voorhees, E. A.
+171 Reeves, R. F.
+172 Beam, A.
+174 Neal, W. R.
+175 Anderson, W. H.
+176 Perlis, A. J.
+177 Thacher Jr., H. C.
+178 Thacher Jr., H. C.
+179 Galler, G. M.
+180 Galler, G. M.
+181 Galler, G. M.
+182 Galler, G. M.
+183 Perry, C.
+184 Robinson, S. M.
+185 Codd, E. F.
+186 Floyd, R. W.
+187 Swift, C. J.
+188 Berezin, I. S.
+189 Booth, A. D.
+191 Barrett, J. A.
+192 Wegner, P.
+193 Patrick, R. L.
+194 Sarafyan, D.
+195 Patterson, G. W.
+197 Knuth, D. E.
+198 Gurzi, F.
+199 Claussen, R.
+200 Clarke, D. S.
+201 Clarke, D. S.
+202 Senko, M. E.
+203 Brown, R. M.
+204 Wang, H.
+205 McIlroy, M. D.
+206 Green, J.
+207 Smith, J. W.
+208 Newell, A.
+209 Perlis, A. J.
+210 McCarthy, J.
+211 Grems, M.
+212 Gorn,S.
+213 Schmittroth, L. A.
+214 Floyd, R. W.
+215 Brooks, F. P.
+216 Kanner, H.
+218 Painter, J. A.
+219 Shuchter, J. P.
+220 Traub, J. F.
+221 Logan, W. A.
+222 Lynch, W. C.
+223 Pelta, H. N.
+224 Samelson, K.
+225 Greenwald, I. D.
+226 Grau, A. A.
+227 Wegstein, J.
+228 Herbold, R. J.
+229 Gruenberger, F.
+230 Bemer, R. W.
+231 Kent, E. R.
+232 Frank, R. M.
+233 Nather, V.
+234 Speckhard, A. E.
+235 Bagley, P. R.
+236 Feigenbaum, E. A.
+237 Robbins, D.
+238 Garfinkel, D.
+239 Verhoeff, J.
+240 Graham, J. W.
+241 Lechner, J. A.
+242 Wilson, J. G.
+243 Rubinoff, M.
+244 Kriebel, D. C.
+245 Herndon, J. R.
+246 MacMillan, D. B.
+247 Jefferson, D. K.
+248 Smith, L. W.
+249 Gorn, S.
+250 Nickerson, R. C.
+251 Archambault, M.
+252 Dow, J.
+253 Foata, D. C.
+254 Bachelork, G. A.
+255 Breed, L. M.
+256 Dubay, G. H.
+257 Knapp, A. W.
+258 Hellerman, O.
+259 Coveyou, R. R.
+260 Mifsud, C. J.
+261 Moore, D. P.
+262 Moore, C. L.
+263 Moore, D. P.
+264 Reynolds, S. W.
+265 Barnett, M. P.
+266 Robinson, S. M.
+267 Wilkes, M. V.
+268 Cohen, L. J.
+269 Riskin, B. N.
+270 Kelley Jr., J. E.
+271 Heising, W. P.
+272 Jensen, J.
+273 Collins Jr., G. O.
+274 Fotheringham, J.
+275 Sams, B. H.
+276 Holt, A. W.
+277 Maher, R. J.
+278 Roberts Jr., A. E.
+279 Sams, B. H.
+280 O'Neil, R. W.
+281 Feurzeig, W.
+282 Hutchinson, K.
+283 Tornheim, L.
+284 Rom, A. R. M.
+285 Wenrick, R. C.
+286 Bramhall, J. N.
+287 Shapiro, N.
+288 Taylor, W.
+289 Alexander, N. P.
+290 Mayoh, B. H.
+291 Hoffman, J.
+292 Kehl, W. B.
+293 Richstone, M.
+294 Knuth, D.
+295 Clendenin, W. W.
+296 Cox, A. G.
+297 Marcus, C. F.
+298 Kuehn, H. G.
+299 Reynolds, S. W.
+300 Mackinson, T. N.
+301 Gilbert, H. E.
+302 Rice, H. G.
+303 Gorn, S.
+304 Nestor Jr., C. W.
+305 Caffrey, J.
+306 Caffery, J.
+307 Hoare, C. A. R.
+308 Hoare, C. A. R.
+309 Hoare, C. A. R.
+310 Herndon, J. R.
+311 Gibb, A.
+312 Olivier, D.
+313 Bramhall, J. N.
+314 Clarkson, W. K.
+315 Wenrick, R. C.
+316 Arden, B. W.
+317 Bellman, R.
+318 Fischer, C. M.
+319 Traub, J. F.
+320 Cantrell, H. N.
+321 Knuth, D. E.
+322 Bright, H. S.
+323 Blachman, N. M.
+324 Bauer, F. L.
+325 Alexander, W. J.
+326 Ranshaw, R. W.
+327 Bareiss, E. H.
+328 Cohen, D.
+329 Edmundson, H. P.
+330 Baker, F. B.
+331 Bellman, R.
+332 Johnson, L. R.
+333 Bemer, R. W.
+334 Nadler, M.
+335 Bellman, R.
+336 Kulsrud, H. E.
+337 Ross, H. M.
+338 Thacher Jr., H.C.
+339 Alexander, W. J.
+340 Herndon, J.
+341 Herndon, J.
+342 Herndon, J.
+343 Herndon, J.
+344 Herndon, J. R.
+345 Herndon, J. R.
+346 Herndon, J. R.
+347 Herndon, J. R.
+348 Herndon, J. R.
+349 Herndon, J. R.
+350 Herndon, J. R.
+351 Herndon, J. R.
+352 Herndon, J. R.
+353 Herndon, J. R.
+354 Herndon, J. R.
+355 Herndon, J. R.
+356 Ingerman, P. Z.
+357 Wojcicki, M. E.
+358 Thacher Jr., H. C.
+359 Wood, T. C.
+360 Solomon, J. G.
+361 Weinberg, G. M.
+362 Sherman, P. M.
+363 Karst, E.
+364 Nather, R. E.
+365 Gray, M. C.
+366 Smith, O. K.
+367 Lasser, D. J.
+368 Collinge, R. M.
+369 Thacher Jr., H. C.
+370 Rader, P. J.
+371 Wilkinson, J. H.
+372 Leavenworth, B.
+373 Sassouni, P.
+374 Brons, K. A.
+375 Brons, K. A.
+376 Gianni, A. J.
+377 Wood, T. C.
+378 Ross, D. T.
+379 Strachey, C.
+380 Traub, J. F.
+381 Bratman, H.
+382 Bush, N.
+383 Caldwell, T.
+384 Lipp, M. F.
+385 Lipp, M. F.
+386 Freeman Jr., R. D.
+387 Collinge,R. M.
+388 Vandergraft, J. S.
+389 Peavy, S.
+390 Rader, P. J.
+391 Smith, R. B.
+392 Nekora, M. R.
+393 Carr III, J. W.
+394 Ryle, B. L.
+395 Rabinowitz, P.
+396 Jacoby, K.
+397 Grems, M.
+398 Sibley, R. A.
+399 Huskey, H. D.
+400 Irons, E. T.
+401 Sattley, K.
+402 Ingerman, P. Z.
+403 Ingerman, P. Z.
+404 Irons, E. T.
+405 Floyd, R. W.
+406 Evans Jr., A.
+407 Wells, M. B.
+408 Arden, B. W.
+409 Cheatham Jr., T. E.
+410 Englund, D.
+411 Bottenbruch, H.
+412 Gray, A. A.
+413 Huskey, H. D.
+414 Wheeling, R.
+415 Schuff, H. K.
+416 Morrison, D. D.
+417 Freed, R. N.
+418 Behrenz, P. G.
+419 Thacher Jr., H. C.
+420 Phillips, E. S.
+421 Hacker, R.
+422 Grench, R. E.
+423 Behrenz, P. G.
+424 Behrenz, P. G.
+425 Merner, J. N.
+426 Collison, D. M.
+427 Amit, D.
+428 McKeeman, W. M.
+429 McKeeman, W. M.
+430 Kaupe Jr.,A. F.
+431 Kaupe Jr., A. F.
+432 Hafley, W. L.
+433 Sonquist, J. A.
+434 Poore Jr., J. H.
+435 Vasilakos, G. J.
+436 Knuth, D. E.
+437 Galler, B. A.
+438 Gorn, S.
+439 Stark, L.
+440 Newcombe, H. B.
+441 Kahn, A. B.
+442 McKeeman, W. M.
+443 Erwin Jr.,G. W.
+444 May, R. W.
+445 May, R. W.
+446 Behrenz, P. G.
+447 Williams, M. R.
+448 Ingerman, P. Z.
+449 Ingerman, P. Z.
+450 Peck, J. E. L.
+451 Dahm, D. M.
+452 Dahm, D. M.
+453 Wells, M.
+454 McKeeman, W. M.
+455 Fettis, H. E.
+456 Behrenz, P. G.
+457 Browne, J. C.
+458 Smith, V. H.
+459 Eaves, Lt. B. C.
+460 Whitley, V. W.
+461 Lipkin, M.
+462 Stark,L.
+463 Floyd, R. W.
+464 Barnett, M. P.
+465 Schrack, G. F.
+466 George, R.
+467 Schrack, G. F.
+468 Jefferson, D. K.
+469 Hellberg, L.
+470 Wells, M.
+471 Walsh, P. J.
+472 Counts, J. W.
+473 Rutishauser, H.
+474 Yarbrough, L.D.
+475 Pei, M. L.
+476 Nadler, M.
+477 Muller, M. E.
+478 Baecker, H.D.
+479 Mendoza, A. G.
+480 Salzer, H. E.
+481 Armerding, G. W.
+482 Feldman, J.
+483 Floyd, R. W.
+484 Schaefer, L. J.
+485 Crawford, M.
+486 Dietzel, G. F.
+487 Shafer,D.
+488 Weil, J. W.
+489 Shaffer, S. S.
+490 Garfinkel, D.
+491 Penny, J. P.
+492 Schay Jr., G.
+493 McGee, W. C.
+494 Luther, H. A.
+495 Busing, W. R.
+496 Brenner, J. L.
+497 Gluss, B.
+498 Collison, D. M.
+499 Collison, D. M.
+500 Collison, D. M.
+501 Hillmore, J. S.
+502 George, R.
+503 Collison, D. M.
+504 Hillmore, J. S.
+505 Collison, D. M.
+506 Hillmore, J. S.
+507 Hillmore, J. S.
+508 George, R.
+509 Struble, G.
+510 Thacher Jr., H. C.
+511 Hillmore, J. S.
+512 Thacher Jr., H. C.
+513 Hillmore, J. S.
+514 George, R.
+515 Thacher Jr., H. C.
+516 George, R.
+517 Eisenman, B.
+518 Collison, D. M.
+519 Collison, D. M.
+520 Smith, R. L.
+521 Trotter, H. F.
+522 Stockmal, F.
+523 Floyd,R. W.
+524 Shimrat, M.
+525 Howell, J. R.
+526 Pyle, I. C.
+527 Banerji, R. B.
+528 Robbins, D. K.
+529 Robison, D. E.
+530 Siler, W.
+531 Phillips Jr., W.
+532 Fraser, W.
+533 Peabody, P. R.
+534 Salzer, H. E.
+535 Onoe, M.
+536 Baer, R. M.
+537 Davis, M.
+538 Kruglyak, Y. A.
+539 Kruglyak, Y. A.
+540 Kruglyak, Y. A.
+541 Relph, A. P.
+542 Relph, A. P.
+543 Relph, A. P.
+544 Relph, A. P.
+545 George, R.
+546 Johnson, M. L.
+547 Johnson, M. L.
+548 Kruglyak, Y. A.
+549 Kruglyak, Y. A.
+550 Kruglyak, Y. A.
+551 Kruglyak, Y. A.
+552 Counts, J. W.
+553 Johnson, M. L.
+554 Bauer, F. L.
+555 Rutishausr, H.
+556 Bottenbirruch, H. H
+558 Larsen, L. J.
+559 Appel, K.
+560 Wegner, P.
+561 Hanson, J. W.
+562 Whittier, V. E.
+563 Randell, B.
+564 Relph, A. P.
+565 Caffrey, J.
+566 Conger, R. A.
+567 Relph, A. P.
+568 Relph, A. P.
+569 Steck, B.
+570 Kuncir, G. F.
+571 Schrack, G. F.
+572 Kiviat, P. J.
+573 Kiviat, P. J.
+574 Garland, S. J.
+575 Pfaltz, J. L.
+576 Floyd, R. W.
+577 Floyd, R. W.
+578 Stockmal, F.
+579 Kurtzberg, J.
+580 Perstein, M. H.
+581 Jones, T. G.
+582 Oster, C. A.
+583 Thacher Jr., H. C.
+584 Rabinowitz, I. N.
+585 Landis, N.
+586 Roek, D. J.
+587 Buchner, K. H.
+588 Newhouse, A.
+589 Cundiff, J. L.
+590 Cundiff, J. L.
+591 Cundiff, J. L.
+592 Mullen, J. W.
+593 Mullin, J. P.
+594 Bouman, C. A.
+595 Greene, I.
+596 Kesner, O.
+597 Emery, J. C.
+598 Hicks, W.
+599 Donally, W. L.
+600 Berman, R.
+601 Siegel, M.
+602 Lippitt, A.
+603 Sammet, J. E.
+604 Cunningham, J. F.
+606 Kaiser, C. J.
+607 Knuth, D.
+608 Peck, J. E. L.
+609 Brown, P. J.
+610 Brown, P. J.
+611 Howell, J. R.
+612 Peck, J. E. L.
+613 Evans, T. G.
+614 Hennion, P. E.
+615 Hellerman, H.
+617 Wheeling, R. F.
+618 Carlson, W. M.
+619 Davidson, L.
+620 Halstead, M. H.
+621 Thacher Jr., H. C.
+622 Mayoh, B. H.
+623 Mayoh, B. H.
+624 Mayoh, B. H.
+625 Holsten, W.
+626 Foster, M. B.
+627 Weizenbaum, J.
+628 Grau, A. A.
+629 Lynch, W. C.
+630 Ellis, P. V.
+631 Ledley, R.S.
+632 Forsythe, G. E.
+633 Garfinkel, D.
+634 Salton, G.
+635 Baker, J. J.
+636 Weisert, C.
+637 Watt, J. B.
+638 Longo, L. F.
+639 Giammo, T. P.
+640 Perry, C.
+641 Hennion, P. E.
+642 Schwarz, H. R.
+643 Larson, R.
+644 Wegstein, J. H.
+645 Randell, B.
+646 Randell, B.
+647 Cohen, K. J.
+648 Flores, I.
+649 Peck, J. E. L.
+650 Peck, J. E. L.
+651 Grems, M.
+652 Sable, J. D.
+653 Cheatham Jr., T. E.
+654 Barnes, R. F.
+655 Yngve, V. H.
+656 Wang, T. L.
+657 Colilla, R. A.
+658 Sammet, J. E.
+659 Thacher Jr., H. C.
+660 Englar, T. S.
+661 Barnett, M. P.
+662 Juelich, O. C.
+663 Lapidus, A.
+664 Witty, R. D.
+665 Shantz, P. W.
+666 Kase, R. H.
+667 Lukehart, P. M.
+668 Briggs, W. A.
+669 Shaw, C. J.
+670 Freed, R. N.
+671 Sanders, M.
+672 Leibowitz, G. J.
+673 Eckert, J. B.
+674 Andrews, A. C.
+675 Gross, L. D.
+676 Tang, I. C.
+677 Knuth, D. E.
+678 Katz,J. H.
+679 Wells, M. B.
+680 Irons, E. T.
+681 Lomis, R. G.
+682 Ayers, J. A.
+683 Weimer, D. L.
+684 Hennion, P. E.
+685 Thacher Jr., H. C.
+686 George, R.
+687 Thacher Jr., H. C.
+688 Simoes Pereira, J. M. S.
+689 Gosden, J. A.
+690 Traub, J. F.
+691 Brown, S. A.
+692 Stockmal, F. J.
+693 Krolak, P.
+694 Hess, H.
+695 Carlson, B. G.
+696 Edwards, J. D.
+697 Dalrymple, G. V.
+698 Marill, T.
+699 Dayhoff, M. O.
+700 Dwyer, T. A.
+701 Schubert, G. R.
+702 Filsak, Z.
+703 Scowen, R. S.
+704 Collins, D. H.
+705 Blakely, R. E.
+706 Schubert, G. R.
+707 Ibbetson, D.
+708 Gray, M. D.
+709 Newhouse, A.
+710 Gray, M. D.
+711 Gray, M. D.
+712 Schubert, G. R.
+713 Schubert, G. R.
+714 Ibbetson, D.
+715 Foreman Jr., W. T.
+716 Boothroyd, J.
+717 Hutchinson, G.
+718 Weinberg, G. M.
+719 Rotenberg, N.
+720 Bailey, M. J.
+721  Rossheim, R. J.
+725 McCormick, E. M.
+726 Smillie, K. W.
+727 Greenspan, D.
+728 Knuth, D. E.
+729 Wirth, N.
+730 Gawlik, H. J.
+731 Weizenbaum, J.
+732 Rodman,R. D.
+733 Thacher Jr., H. C.
+734 Thacher Jr., H. C.
+735 Thacher Jr., H. C.
+736 Thacher Jr.,H. C.
+737 Lawrence, J. D.
+738 George, R.
+739 Wasscher, E. J.
+740 Wright, C. B.
+741 Freed, B. H.
+742 Freed, B. H.
+743 Konda, M.
+744 Haubrich, J. G. A.
+745 Wasscher, E. J.
+746 Wasscher, E. J.
+747 Shen, M. K.
+748 Chu, W. H.
+749 Dumey, A. I.
+750 Newbery, A. C. R.
+751 Rodman, R. D.
+752 Moore, D. P.
+753 Egler, J. F.
+754 Blatt, J. M.
+755 Pope, D. A.
+756 Danielson, W. A.
+757 Katz, J. H.
+758 Kahn, A. B.
+759 Barnett, M. P.
+760 Pyle, I. C.
+761 Kaupe Jr., A. F.
+762 DiForino, A. C.
+763 Eickel, J.
+764 Hennion, P. E.
+765 Bitterli, C. V.
+766 Fletcher, W. E.
+767 Thoro, D.
+768 Thoro, D.
+769 Bosworth, K. M.
+770 Bosworth, K. M.
+771 Bosworth, K. M.
+772 Lefkowitz, B.
+773 George, R.
+774 Naur, P.
+775 Hennion, P. E.
+776 Randell, B.
+777 Naur, P.
+778 George, R.
+779 Domingo, C.
+780 Naur, P.
+781 Bridges, J. F.
+782 Bridges, J. F.
+783 Boothroyd, J.
+784 George, R.
+785 Tantzen, R. G.
+786 McKeeman, W. M.
+787 Wells, M.
+788 Roman, R. D.
+789 Thurnau, D. H.
+790 Domingo, C.
+791 Smith, D. D.
+792 Keyes, D. F.
+793 Baecker, H. D.
+794 Bowlden, H. J.
+795 Ferguson, H. E.
+796 Lehman, M.
+799 Conway, M. E.
+800 McCarthy, J.
+801 Synge, M. J.
+802 Rutishauser, H.
+803 Evans Jr., A.
+804 Thacher Jr., H. C.
+805 Kondo, J.
+806 Moler, C.
+807 Fettis, H. E.
+808 Relph, A. P.
+809 Relph, A. P.
+810 Relph, A. P.
+811 Rodriguez Gil, F.
+812 Rodriguez-Gil, F.
+813 Vande Riet, R. P.
+814 Vande Riet, R. P.
+815 Colker, A.
+816 Colker, A.
+817 Hopley, J.
+818 Hellerman, H.
+819 Eisman, S. H.
+820 Gordon, R. M.
+821 Juelich, O. C.
+822 Head, R. V.
+823 Huskey, H. D.
+824 Kliphardt, R. A.
+825 Rudloe, H.
+826 Bennett, C. M.
+827 Schick, T.
+828 Cantrell, H. N.
+829 Greniewski, M,
+830 Conway, R. W.
+831 Thacher Jr., H. C.
+832 Isoda, K.
+833 Schwartz, H. R.
+834 McKeeman, W. M.
+835 Thacher Jr., H. C.
+836 Thacher Jr., H. C.
+837 Ludwig, O. G.
+838 Kaupe Jr., A. F.
+839 Synge, M. J.
+840 Arthurs, T. D.
+841 Shaw, C. J.
+842 Gibb, A.
+843 Hajek, O.
+844 Fedako,J. E.
+845 Caffrey, J.
+846 Sanborn, T. G.
+847 Wall, E.
+848 Bemer, R. W.
+849 Sussenguth Jr., E. H.
+850 Waks, D. J.
+851 Goetz, M. A.
+852 Hall, M. H.
+853 Paterson, J. B.
+854 Hubbard, G. U.
+855 Goetz, M. A.
+856 Falkin, J.
+857 Glore, J. B.
+858 Cooke, W. S.
+859 French, N.C.
+860 Goetz, M. A.
+861 Gilstad, R. L.
+862 Malcolm Jr., W. D.
+863 Manker, H. H.
+864 Hibbard, T. N.
+865 Goetz, M. A.
+866 Gotlieb, C. C.
+867 Gluss, B.
+868 Shoffner, M. G.
+869 Thoro, D.
+870 Barnecut, J. N. R.
+871 Thacher Jr., H. C.
+872 McKeeman, W. M.
+873 Poore Jr., J. H.
+874 Hale, R. P.
+875 van De Riet, R. P.
+876 Thacher, H. C.
+877 Thacher Jr., H. C.
+878 Hennion, P. E.
+879 Kahan, W.
+880 Kahan, W.
+881 Kahan, W.
+882 Rodman, R. D.
+883 Thacher Jr., H. C.
+884 Clark, R. E.
+885 Fettis, H. E.
+886 Stockton, F. G.
+887 Wright, H. V.
+888 Wolfson, M. L.
+890 Fritz, W. B.
+891 Whitley, V. W.
+892 Climenson, W. D.
+893 Goldstein, M.
+894 Luther, H. A.
+895 Scheinok, P. A.
+896 Thompson, G. T.
+897 Brown, P. J.
+898 Laughlin, D. L.
+899 Bosworth, K. M.
+900 Thacher Jr., H. C.
+901 Clark, E. S.
+902 Digby, D. W.
+903 Fettis, H. E.
+904 Mifsud, C. J.
+905 Mifsud, C. J.
+906 Mifsud, C. J.
+907 Mifsud, C. J.
+908 LaSor, W. S.
+909 Conway, M. E.
+910 Mayer, R. J.
+911 McIlroy, M. D.
+912 Garber, M. J.
+913 Halstead, M. H. 
+914 Shaw, C. J.
+915 Newell, A.
+916 Heising, W. P.
+917 Yngve, V. H.
+918 Cunningham, J. F.
+919 Naur, P.
+920 Yngve, V. H.
+921 Meyer, N. A.
+922 Thacher Jr., H. C.
+923 Bauer, F. L.
+924 Hopley, J.
+925 Walter, H. F.
+926 Rutishauser, H.
+927 White, W. C.
+928 Lewis, T. S.
+929 Grems, M.
+930 Yarbrough, L. D.
+931 Miller, J. C.
+932 Naur, P.
+933 Naur, P.
+934 Naur, P.
+935 Naur, P.
+936 Naur, P.
+937 Naur, P.
+938 Naur, P.
+939 Behrenz, P. G.
+940 Marsaglia, G.
+941 Cadwell, J. H.
+942 Healy, M. J. R.
+943 Grems, M.
+944 Scidmore, A. K.
+945 Conway, M. E.
+946 Utman, R. E.
+947 Woodger, M.
+948 Healy, M. J. R.
+949 Petrone, L.
+950 Nievergelt, J.
+951 Gargantini, I.
+952 Drath, D. G.
+953 Baker, J. J.
+954 Smillie, K. W.
+955 Cline, R. E.
+956 Newbery, A. C. R.
+957 Miller, J. A.
+958 Synge, M. J.
+959 Lubbert, W. F.
+960 Garber, M. J.
+961 Oster, C. A.
+962 Cody, W. J.
+963 White, P.
+964 Wactlar, H. D.
+965 Bray, T. A.
+966 Hasselblad, V.
+967 Clausen, I.
+968 Halton, J. H.
+969 Boothroyd, J.
+970 Floyd, R. W.
+971 Green, L. E. S.
+972 Heistand, R. E.
+973 Bellman, R.
+974 Maher, A. S.
+975 Traub, J. F.
+976 Gray, M.
+977 Oppenheim, D. K.
+978 Lotsch, H.
+979 Collens, D. S.
+980 Maer, R. M.
+981 Kelley, T. B.
+982 Faulk, R. D.
+988 Heising, W. P.
+989 Iverson, K. E.
+990 Wilkes, M. V.
+991 Bray, T. A.
+992 McCombs, V. K.
+993 Priebe, K. B.
+994 Blair, C. R.
+995 Wallack, P.
+996 Sag, T. W.
+997 Jacobs, M. C.
+998 Hamlin, K. B.
+999 Hauptman, G. A.
+1000 Kates, J. P.
+1001 Lawlor, R. C.
+1002 Whittlesey, J. R. B.
+1003 Davids, N.
+1004 Mills, K. W.
+1005 Dorrer, E.
+1006 Fitzwater, D. R.
+1007 Benett, R. K.
+1008 Schultz, C. K.
+1009 Weinberg, G. M.
+1010 Dennis, J. B.
+1011 Collens, D. S.
+1012 Greibach, S. A.
+1013 Broder, S.
+1014 Weldon, R. J.
+1015 Fraser, W.
+1017 Bemer, R. W.
+1018 Pike, M. C.
+1019 Cavin, D. K.
+1020 McKeeman, W. M.
+1021 Reeves, C. M.
+1022 Peck, J. E. L.
+1023 Gautschi, W.
+1024 Waite, W. M.
+1025 Lietzke, M. P.
+1026 Stein, M. L.
+1027 Newhall, N. S.
+1028 Wilkins, R. D.
+1029 Wengert, R. E.
+1030 Breuer,M. A.
+1031 Beyer, W. A.
+1032 Belzer, J.
+1033 Hellerman, H.
+1034 Gatto, O. T.
+1035 Mancino. O. G.
+1036 Garwick, J. V.
+1037 Priebe, K. B.
+1038 McKeeman, W. M.
+1039 Thacher Jr., H. C.
+1040 Thacher Jr., H. C.
+1041 Durstenfeld, R.
+1042 Simoes Pereira, J. M. S.
+1043 verSteeg, R. L.
+1044 Kanner, H.
+1045 Peng, K. C.
+1046 Rosen, S.
+1047 Ortega, J. M.
+1048 Greenspan, D.
+1049 Holt, J. F.
+1050 Brian, W. J.
+1051 Comfort, W. T.
+1052 Wolfe, J. M.
+1053 Hassitt, A.
+1054 Batson, A. P.
+1055 Simoes Pereira, J. M. S.
+1056 Batty, M. A.
+1057 Hoffman, I. A.
+1058 Olynyk, F.
+1059 Williams, J. W. J.
+1060 Boothroyd, J.
+1061 Boothroyd, J.
+1062 Bailey, M. J.
+1066 Aronofsky, J. S.
+1067 Perry, B.
+1068 Ackermann, A. F.
+1069 Raichelson, E.
+1070 Warrington, J. A.
+1071 Rosenberg, A. M.
+1072 Galler, B. A.
+1073 MacLaren, M. D.
+1074 Schumaker, L.
+1075 Juelich, O. C.
+1076 Wirth, N.
+1077 Naur, P.
+1078 Morelock, J. C.
+1079 Simoes Pereira, J. M. S.
+1080 Cyvin, S. J.
+1081 Cyvin, S. J.
+1082 Cyvin, S. J.
+1083 Klerer, M.
+1084 Shaw, C. J.
+1087 Edmundson, H. P.
+1088 Balistfy, J. L.
+1089 Denison, A.
+1090 Gautschi, W.
+1091 Thacher Jr., H. C.
+1092 Butler, H. S.
+1093 Rotenberg, L. J.
+1094 Shimrat, M.
+1095 Griebrok, M.
+1096 Stevens, D.
+1097 Gladwin, H. T.
+1098 Bobrow, D. G.
+1099 Sterling, T. D.
+1100 Atchison, W. F.
+1101 Muller, D. E.
+1102 Gorn, S.
+1103 Korfhage, R. R.
+1104 Forsythe, G. E.
+1105 Arden, B. W.
+1106 Perlis, A. J.
+1107 Keenan, T. A.
+1108 Wilcox, H. J.
+1109 Thacher Jr., H. C.
+1110 Forrington, C. V. D.
+1111 Luther, H. A.
+1112 Damerau, F. J.
+1113 Zajac, E. E.
+1114 Schwartz, E. S.
+1115 Clampett Jr., H. A.
+1116 Csima, J.
+1117 McAlester, R. L.
+1118 MacGowan, R. A.
+1121 Barnett, M. P.
+1122 Anderson, J. P.
+1123 Gladfelter, G. W.
+1124 Wells, M.
+1125 Naur, P.
+1126 Barton, S. P.
+1127 Naur, P.
+1128 Rotenberg, L. J.
+1129 Gautschi, W.
+1130 Gautschi, W.
+1131 Ross, D. T.
+1132 Perlis, A. J.
+1133 Brooker, R. A.
+1134 Allard, R. W.
+1135 Lombardi, L. A.
+1136 Steel Jr., T. B.
+1137 Perlis, A. J.
+1138 Iverson, K. E.
+1139 Leavenworth, B. M.
+1140 Irons, E. T.
+1141 Floyd, R. W.
+1142 Rose, G. F.
+1143 Worsley, B. H.
+1144 Robbins, D.
+1145 Unger, S. H.
+1146 Thacher Jr., H. C.
+1147 Day, J. T.
+1148 Miller, R. H.
+1149 Garwick, J. V.
+1150 Kahan, W.
+1151 Comstock, D. R.
+1152 Gregory, R. T.
+1153 Marsaglia, G.
+1154 Fischer, P. C.
+1155 Slagle, J. R.
+1156 Reilly, G. A.
+1157 MacLaren, M. D.
+1158 Anderson, J. P.
+1159 Halpern, M. I.
+1160 Wilson, D. M.
+1161 McCormack, M. A.
+1162 Graham, M. L.
+1163 Olsen, T. M.
+1164 Tucker, S. G.
+1165 Benjamin, R. I.
+1166 Dellert Jr., G. T.
+1167 Gaines, R. S.
+1168 Fredericks, D. S.
+1169 Pomentale, T.
+1170 McConlogue, K.
+1171 Mueller, R. K.
+1172 Pollack, S. L.
+1173 Naur, P.
+1174 Medlock, C. W.
+1175 Scowen, R. S.
+1176 Newhouse, A.
+1177 Pfann, J.
+1178 McKeeman, W. M.
+1179 Rosen, S.
+1180 Cohen, I.
+1181 Neilsen, I. R.
+1182 Rubenstein, H.
+1183 Veronis, G.
+1184 Knowlton, K.C.
+1185 Fletcher, J. G.
+1186 Lynch,W. C.
+1187 Crosby, W. S.
+1188 Chu, Y.
+1189 Pike, M. C.
+1190 Pike, M. C.
+1191 Wirth, N.
+1192 Stafford, J.
+1193 Langmaack, H.
+1194 Rubinoff, M.
+1195 Canter, J. D.
+1196 Klopfenstein, R. W.
+1197 Henrich, P.
+1198 Dijkstra, E. W.
+1199 Hutchinson, G. K.
+1200 Reily, E. D.
+1201 Elliott, R. W.
+1202 Pike, M. C.
+1203 Pike, M. C.
+1205 A Report from the ACM Curriculum Committee on Computer Science
+1206 DeMaine, P. A. D.
+1207 Dodd, G. G.
+1208 Weingarten, F. W.
+1209 Garber, M. S.
+1210 Harrison, M. C.
+1211 Berztiss, A. T.
+1212 Bellman, R.
+1213 Ranelletti, J. E.
+1214 Lapidus, A.
+1215 Gries, D.
+1216 Smith, P. J.
+1217 McKay, J. K. S.
+1218 McKay, J. K. S.
+1219 McKay,J. K. S.
+1220 Gunn, J. H.
+1221 Gunn, J. H.
+1222 Gautschi, W.
+1223 Gear, C. W.
+1224 Rosin, R. F.
+1225 Kuno, S.
+1226 Dzubak, B. J.
+1227 Bayer, G.
+1228 Abrams, P. S.
+1229 Pike, M. C.
+1230 Rich, R. P.
+1231 McKeeman, W. M.
+1234 Kanner, H.
+1235 Stolz, W. S.
+1236 Salton, G.
+1237 Press, L. I.
+1238 Budea, N.
+1239 Allen, W. D.
+1240 Bayer, G.
+1241 Kubik, R. N.
+1242 Grau, A. A.
+1243 Weil, R. L.
+1244 Tobey, G. D.
+1245 Kent, W.
+1246 Korphage, R. R.
+1247 Brown, W. S.
+1248 Nievergelt, J.
+1251 Traub, J. F.
+1252 Smith, B. W.
+1253 Tonge, F. M.
+1254 Galler, B. A.
+1255 Philpott, C. M.
+1256 King, D. R.
+1257 Evans, T. G.
+1258 Blum, B. I.
+1259 Weldon, R. J.
+1260 Marshall, S. W.
+1261 Larsen, R. P.
+1262 Opler, A.
+1263 Burkhardt, W. H.
+1264 Landwehr, J. B.
+1265 Griffiths, T. V.
+1268 Boothroyd, J.
+1269 Teijelo, L.
+1270 Forsythe, G. E.
+1271 Davis, D. R.
+1272 Doule, L. B.
+1273 Krasun, A. M.
+1274 Day, J. T.
+1275 Ramamoorthy, C. V.
+1277 Tajiri, K.
+1278 Bellman, R. E.
+1279 Brown, R. M.
+1280 Bellman, R. E.
+1281 Pyle, I. C.
+1282 Shavell, Z. A.
+1283 Ferring, M.
+1284 Stafford, J.
+1285 Businger, P. A.
+1286 Businger, P. A.
+1287 Gunn, J. H.
+1288 Conway, R. W.
+1291 George, R.
+1292 Krishnamurthy, E. V.
+1293 Greenberger, M.
+1294 Ikebe, Y.
+1295 Lass, S. E.
+1296 Wasscher, E. J.
+1297 Varah, J. M.
+1298 Pike, M. C.
+1299 Bowlden, H. J.
+1300 Wells, M.
+1301 Zaremba, W. A.
+1303 Landin, P. J.
+1304 Irons, E. T.
+1305 Mancino, O. G.
+1306 Johnston, J. B.
+1307 Goodenough, J. B.
+1308 Luh, J. Y. S.
+1309 Montillon, G. D.
+1310 Weiler, W. J.
+1311 Schmid, L. P.
+1312 Rice, H. G.
+1313 Rosen, J. B.
+1314 Batson, A.
+1315 Lahners, E. L.
+1316 Gautschi, W.
+1317 Samet, P.A.
+1318 Bowlden, H. J.
+1319 Meissner, L. P.
+1320 Boonstra, B. H.
+1321 Wirth, N. E.
+1322 Briggs, W. A.
+1323 Landin, P. J.
+1324 Simmons, R. F.
+1325 Whipple, G. H.
+1326 Loomis, R. G.
+1327 Kirk, H. W.
+1328 Kahan, W.
+1329 Mano, M. M.
+1330 Anderson, H. E.
+1331 Ramamoorthy, C. V.
+1332 Samet, P. A.
+1333 Ross, D. R.
+1334 Gerard, J. M.
+1336 Radin, G.
+1337 Wirth, N.
+1338 Knuth, D. E.
+1339 Wirth, N.
+1340 Abraham, C.
+1341 Bryant, P.
+1342 Bayer, G.
+1343 Farkas, I.
+1344 Schlater, J. E.
+1345 Waltons, J. J.
+1346 Gargantini, L.
+1347 Wilkins, R. D.
+1348 Sherman, P. M.
+1349 Finerman, A.
+1350 Kuno,S.
+1351 Dargel, R. H.
+1352 Rabinowitz, P.
+1353 Clasen, R. J.
+1354 King, P. J. H.
+1355 Gautschi, W.
+1356 Hillstrom, K.
+1357 Williams, R.
+1358 Leavenworth, B. M.
+1359 Larsen, R. P.
+1363 Martin, W. C.
+1364 Bellman, R.
+1365 Tobey, R. G.
+1366 Teichroew, D.
+1368 Roberts, S. M.
+1369 McCamon, R. B.
+1370 Boothroyd, J.
+1371 Pike, M. C.
+1372 Bell, M.
+1373 Pike, M. C.
+1374 Bergson, A.
+1375 Fletcher, R.
+1376 Stern, G.
+1377 Hansson, L.
+1378 Hill, I. D.
+1379 Abrahams, P. W.
+1380 Dahl, O. J.
+1381 Murray, F. J.
+1382 Macon, N.
+1383 Givens, W.
+1384 Atchison, W. F.
+1385 Audette, D. G.
+1386 Jordan, D. E.
+1387 Moses, J.
+1388 Ball, W. E.
+1389 Knowlton, K. C.
+1390 Guzman, A.
+1391 Maurer, W. D.
+1392 Tobey, R. G.
+1393 Collins, G. E.
+1394 Hearn, A. C.
+1395 Christensen, C.
+1396 Sammet, J. E.
+1398 Sterling, T.
+1399 Kurki-Suonio, R.
+1400 Blum, R. I.
+1401 Bellman, R., Kagiwada, H.
+1402 Glauz, R. D.
+1403 Sigillito, V. G.
+1404 Peng, K. C.
+1405 Blankinship, W. A.
+1406 Blankinship, W. A.
+1407 Hill, I. D.
+1408 Weingarten, A.
+1409 Boles, J. A.
+1410 Coffman, E. G.
+1411 Neely, P. M.
+1412 Head, R. V.
+1413 Oettinger, A. G.
+1415 Carmody, B. T
+1416 Cleary, J. G.
+1417 Solomon Jr., M. B.
+1418 Peck, J. E. L.
+1419 Hopgood, F. R. A.
+1420 Hutchinson, D. W.
+1421 Wirth, N.
+1423 Rust, R.
+1424 Shalla, L.
+1425 Bohm, C.
+1426 Smith, W. G.
+1427 Pizer, S. M.
+1428 Rockwell Jr., M. A.
+1429 Lions, J.
+1430 Mancino, O. G.
+1431 Deuel, P.
+1432 Cohn, C. E.
+1433 Roes, P. B. M.
+1434 Macon, N.
+1435 Burdick, D. S.
+1436 Fletcher, W.
+1437 Aird, T. J.
+1438 Cain Jr., G. L.
+1439 Simonsen, R. H.
+1440 Fike, C. T.
+1441 Waters, J.
+1443 Royston, R. J.
+1444 Reeves, C. M.
+1445 Sterling, T. D.
+1446 Hopgood, F. R. A.
+1447 Welsch, J. H.
+1448 Welsch, J. H.
+1449 Gautschi, W.
+1450 Kerner, I. O.
+1451 Thacher Jr., H. C.
+1452 Bayer, G.
+1453 Carr III, J. W.
+1454 Scheff, B. H.
+1455 Mooers, C. N.
+1456 Simmons, R. F.
+1457 Salton, G.
+1458 Schwartz, J. I.
+1459 Opler, A.
+1460 Ferguson, D. E.
+1462 Orchard-Hays, W.
+1463 Leonard, G. F.
+1464 Boussard, J. C.
+1465 Naur, P.
+1467 Roberts, L. G.
+1468 Narasimhan, R.
+1469 Landin, P. J.
+1470 Raphael, B.
+1471 Dennis,J. B.
+1472 Lynch, W.C.
+1473 Karim, A. I. A.
+1474 Hull, T. E.
+1475 Head, R. V.
+1477 Wirth, N.
+1478 Deily, G. R.
+1479 Deily, G. R.
+1480 Smith, L. B.
+1481 Lloyd, P.
+1482 Ledley, R. S.
+1483 Wright, D. L.
+1484 Parnas, D. L.
+1485 Raphael, B.
+1486 Burge, W. H.
+1487 Weizenbaum, J.
+1488 Veinott, C. G.
+1489 Fisher, D. L.
+1491 Wirth, N.
+1492 Thacher Jr., H. C.
+1493 Boothroyd, J.
+1494 Larssen, G. M.
+1495 Thacher Jr., H. C.
+1496 Feldman, J. A.
+1497 Krishnamurthy, E. V.
+1498 Bayer, R.
+1499 Boothroyd, J.
+1500 Boothroyd, J.
+1501 Charmonman, S.
+1502 Deutsch, L. P.
+1503 Weinert, A. E.
+1504 Gotlieb, C. C.
+1505 Dahm, D. M.
+1506 Drew, D. L.
+1507 Lockemann, P. C.
+1510 Dulley, D.B.
+1511 Spath, H.
+1512 Brown, K. M.
+1513 Robinson, C. L.
+1514 Shumway, R. H.
+1515 Levien, R. E.
+1516 Marron, B. A.
+1517 Naylor, T. H.
+1518 Katz, J. H.
+1519 Oestreicher, M. D.
+1520 Friedland, P.
+1521 Bratley, P.
+1522 Hillstrom, K.
+1523 Harrison, M. C.
+1524 Adams, D. A.
+1525 Singleton, R. C.
+1526 Smith, J. L.
+1527 Rosenbaum, P.
+1528 Mathews, M. V.
+1529 Bell, E. J.
+1530 Brown, P. J.
+1531 Knuth, D. E.
+1532 Oettinger, A. G.
+1533 Foley, J. D.
+1534 Austin, B. J.
+1535 Luccio, F.
+1536 Lesk, A. M.
+1537 Chartres, B. A.
+1538 Chartres, B. A.
+1539 Chartres, B. A.
+1540 Busam, V. A.
+1541 Parente, R. J.
+1542 Weber, H.
+1543 Howard, J. C.
+1544 Conway, R. W.
+1545 Westin, A. F.
+1546 Bemer, R. W.
+1547 Filho, A. M.S.
+1548 Chapin, N.
+1549 Schorr, H.
+1550 Smith, L. B.
+1551 Nakata, I.
+1552 Ross, D. T.
+1553 Weizenbaum, J.
+1554 Noll, A. M.
+1555 Bratley, P.
+1556 Bratley, P.
+1557 McKay, J. K. S.
+1558 Ord-Smith, R. J.
+1559 Ord-Smith, R. J.
+1560 Sims, L. S.
+1561 Spath, H.
+1562 Pitteway, M. L. V.
+1563 Pohl, I.
+1564 Callahan, M. D.
+1565 Waite, W. M.
+1566 Moursund, D. G.
+1567 McKay, J. K. S.
+1568 Stineman, R. W.
+1569 Irwin, L.
+1570 Madnick, S. E.
+1571 Betyar, L.
+1572 Nielsen, N. R.
+1573 Gallaher, L. J.
+1574 Hill, I. D.
+1575 Pike, M. C.
+1576 Welsch, J. H.
+1577 Welsch, J. H.
+1578 Makinson, G. J.
+1579 Hill, I. D.
+1580 Hill, I. D.
+1581 Hill, I. D.
+1582 Hill, I. D.
+1583 Hill, I. D.
+1584 Hill, I. D.
+1585 Hill, I. D.
+1586 Golub, G. H.
+1587 Abramowich, J.
+1588 Lawson Jr., H. W.
+1589 Cameron, S. H.
+1590 Reddy, D. R.
+1591 Engvold, K. J.
+1592 Alberga, C. N.
+1593 Nandi, S. K.
+1594 Langdon Jr., G. G.
+1595 Evans, J. W.
+1596 Bond, G.
+1597 Boothroyd, J.
+1598 Makinson, G. J.
+1599 Kohfeld, J. J.
+1600 Hillstrom, K.
+1601 Shedler, G. S.
+1602 Schlesinger, S.
+1603 Hornbuckle, G. D.
+1604 Walter, E. S.
+1605 Schatzoff, M.
+1606 Hill, I. D.
+1607 Gunn, J. H.
+1608 Eisner, E.
+1609 Hall Jr., A. D.
+1610 Dwyer, P. S.
+1611 Klein, M. M.
+1612 Brooker, R. A.
+1613 Stone, H. S.
+1614 Galler, B. A.
+1615 Krall, A. M.
+1616 Walton, J. J.
+1617 Boothroyd, J.
+1618 Spath, H.
+1619 Rodden, B. E.
+1620 File, C. T.
+1621 Sydow, L. V.
+1622 Waite, W. M.
+1623 Neidleman, L. D.
+1624 Klerer, M.
+1625 Clark, E. R.
+1626 Bobrow, D. G.
+1627 Morenoff, E.
+1628 Orden, A.
+1629 Shannon, S.
+1630 Pfaltz, J. L. Rosenfeld, A.
+1631 Gorenstein, S.
+1632 Carmer, S. G.
+1633 Ehrlich, L. W.
+1634 Goldberg, I. B.
+1635 Byrne, G. D.
+1636 Belman, R. E.
+1637 Fishman, G. S.
+1638 Gasner, B. J.
+1639 Spath, H.
+1640 Makinson, G. J.
+1641 Cohen, J.
+1642 Fisher, R. O.
+1643 Bingham, J. A. C.
+1644 Goldberg, M.
+1645 Cody, W. J.
+1646 Moulton, P. G.
+1647 Shantz, P. W.
+1648 Strome, W. M.
+1649 Hassitt, A.
+1650 Cooper, B. E.
+1651 Aigner, D. J.
+1652 Morenoff, E.
+1653 Calingaert, P.
+1654 Forsythe, G. E.
+1657 Harrison, M. C.
+1658 Gue, R. L.
+1659 Kuno, S.
+1661 Kolbig, K. S.
+1662 Grad, J.
+1663 Snow, R. H.
+1664 Howard, J. C.
+1665 Johnson, W. L.
+1666 Byrne, J. L.
+1667 Noltemeier, A.
+1668 Singleton, R. C.
+1669 Singleton, R. C.
+1671 Borrow, D. G.
+1672 Rabinowitz, P.
+1673 Greenspan, D.
+1674 Marsaglia, G.
+1675 Korfhage, R. R.
+1676 Mendicino, S. F.
+1677 Jodeit, J. G.
+1678 McNaughton, R.
+1679 Bergland, G. D.
+1680 Engvold, K. J.
+1681 Rubinoff, M.
+1682 Braden, H. V.
+1683 Martin, D. F.
+1684 King, P. J. H.
+1685 Schurmann, A.
+1686 Lesem, L. B.
+1687 Bray, T. A.
+1688 Henderson, J. H.
+1689 Pankiewicz, W.
+1690 Bray, T. A.
+1691 Whittlesey, J. R.
+1692 Stewart III, G.W.
+1693 Garwick, J. V.
+1694 Miller, G. D.
+1695 Dill, J. C.
+1696 Fox, B. L.
+1697 Hayashl, H.
+1698 Denning, P. J.
+1699 Rubinoff, M.
+1700 Hutton, F. C.
+1702 Steel Jr., T. B.
+1703 Mooers, C. N.
+1704 Muth, J. F.
+1705 De Vogelaere, R.
+1706 Storm, E. F.
+1707 Hall, C. A.
+1708 Borrow, D. G.
+1709 Breaux, H. J.
+1710 Lang, C. A.
+1711 Banzhaf III, J. F.
+1712 Lockemann, P. C.
+1713 Stevens, D. F.
+1714 MacLaren, M. D.
+1715 De Vogelaere, R.
+1716 Bell, J. R.
+1717 Dietmeyer, D. L.
+1718 Ehrman, J. R.
+1719 Stimler, S.
+1720 Elliott, R. W.
+1721 Kuiken, H. K.
+1722 McWilliams, G. V.
+1723 Fisher, A. C.
+1724 Bayes, A.
+1725 Wolinsky, A.
+1726 Nagy, G.
+1727 Kral, J.
+1728 Coffman, E. G.
+1729 Salazar, R. C.
+1730 Witte, B. F. W.
+1731 Gautschi, W.
+1732 Oliver,I.
+1733 Fenichel, R. R.
+1734 Bartels, R. H.
+1735 Sutherland, I. E.
+1737 Unger, S. H.
+1738 Brady, P. T.
+1739 Thompson, K.
+1740 Anderson, G. B.
+1741 Ophir, D.
+1742 Myer, T. H.
+1743 Lynch, W. C.
+1744 Bartels, R. H.
+1745 Dennis, J. B.
+1746 Graham, R.M.
+1747 Van Horn, E. C.
+1748 Lampson, B. W.
+1749 Dijkstra, E. W.
+1750 Fuchel, K.
+1751 Denning, P. J.
+1752 Oppenheimer, G.
+1753 Daley, R. C.
+1754 Randell, B.
+1755 ACM Special Interest Committee
+1758 McKay, S.
+1759 Bayer, G.
+1760 Bergson, A.
+1761 O'Brien, W. M.
+1762 Kolbig, K. S.
+1763 Nonweiler, T. F.
+1764 Organick, E. I.
+1765 Hamblen, J. W.
+1766 Bellman, R. E.
+1767 Kulsrud, H. E.
+1768 Unger, S. H.
+1769 Harder, E. L.
+1770 Parker, D. B.
+1774 Pankhurst, R. J.
+1775 Zielke, G.
+1776 Bayer, G.
+1777 Ord-Smith, R. J.
+1778 Dorrer, E.
+1779 Morris, J.
+1780 Hunter, D. B.
+1781 Feldman, J.
+1782 Meisel, W. S.
+1783 Matula, D. W.
+1784 Rabinowitz, P.
+1785 Morris, R.
+1786 Maurer, W. D.
+1787 Gries, D.
+1788 Halpern, M. J.
+1789 Hoare, M. R.
+1790 Whitley, V. W.
+1791 Green, D. R.
+1792 Sackman, H.
+1794 Seraphin, D. S.
+1795 Fateman, R. J.
+1797 Proll, L. G.
+1798 Kolbig, K. S.
+1799 Bray, T. A.
+1800 Parsons, R. G.
+1801 Claringbold, P. J.
+1802 Claringbold, P. J.
+1803 Bach, H.
+1804 Herriot, R. G.
+1805 Lasser, D. J.
+1806 Bach, H.
+1807 Busam, V. A.
+1808 Van Tassel, D.
+1809 Parter, S. V.
+1810 Sayre, D.
+1811 Rosenfeld, J. L.
+1812 Grosenbaugh, L. R.
+1813 Ord-Smith, R. J.
+1814 Smith, L. B.
+1815 Tomlin, F. K.
+1816 Watson, W. T.
+1817 Hall, G.
+1818 Cobb, S. M.
+1819 Gautschi, W.
+1820 Robson, J. M.
+1821 Shriver, B.
+1822 Dial, R. B.
+1823 Howell, J. R.
+1824 Balzer, R. M.
+1825 Korenjak, A. J.
+1826 Fenichel, R. R.
+1827 Pinkerton, T. B.
+1828 Shoshani, A.
+1829 Bond, A. H.
+1830 Bayes, A. J.
+1831 Stanfel, L. E.
+1832 Dunham, C. B.
+1833 Herriot, J. G.
+1834 Hoare, C. A. R.
+1835 Dewar, R. B. K.
+1836 Bell, J. R.
+1837 Singleton, R. C.
+1838 Adams, A. G.
+1839 Businger, P. A.
+1840 Singleton, R. C.
+1841 Singleton, R. C.
+1842 Simoes, J. M. S.
+1843 Brown, W. S.
+1844 Baskin, H. B.
+1845 Lanzano, B. C.
+1846 Parnas, D. L.
+1847 Paton, K.
+1848 Silverman, G.
+1849 Hamilton, P. A.
+1850 Leitch, I. M.
+1851 McIlroy, M. D.
+1852 Orgass, R. J.
+1853 Hansen, W. J.
+1854 Wirth, N.
+1855 Dewar, H.
+1856 Quillian, M. R.
+1857 Chase, S. M.
+1858 Chase, S. M.
+1859 Hall, C. A.
+1860 Feldman, J. A.
+1861 Arden, B. W.
+1862 Finerman, A.
+1863 Messham, D. K.
+1864 Boothroyd, J.
+1865 Sauer, G.
+1866 Clemm, D. S.
+1867 Hooker, W. W.
+1868 Kennedy, M.
+1869 Kain, R. Y.
+1870 Donnelly, T.
+1871 Cottafava, G.
+1872 Salzer, H. E.
+1873 Fox, B. L.
+1874 Hemmerle, W. J.
+1875 Amos, D. E.
+1876 Schneider, A. J.
+1877 Habermann, A. N.
+1878 Weizenbaum, J.
+1879 Randell, B.
+1880 Golub, G. H.
+1881 MacLeod, I. D. G.
+1882 Duke, B. J.
+1883 Fair weather, G.
+1884 Belady, L. A.
+1885 Friedman, J.
+1886 Breuer, M. A.
+1887 Sweet, R. A.
+1888 Blue, J. L.
+1889 Parker Jr., L. T.
+1890 Sakai, T.
+1891 Ophir, D.
+1892 Wallace, V. L.
+1893 Noltemeier, A.
+1894 Knop, R.
+1895 Hill, I. D.
+1896 Gautschi, W.
+1897 Kolbig, K. S.
+1898 Kolbig, K. S.
+1899 Bartels, R. H.
+1901 Belady, L. A.
+1902 Hext, J. B.
+1903 Salzer, H. E.
+1904 Rabinowitz, P.
+1905 Bartels, R. H.
+1906 Lass, S.E.
+1907 Bartlett, K. A.
+1908 Gold, M. M.
+1909 Stroud, A. H.
+1910 Rose, D. J.
+1911 Petrick, S. R.
+1912 Katz, J. H.
+1913 Schwachheim, G.
+1914 Klimpel, R. R.
+1915 Galimberti, R.
+1916 Lowe, T. C.
+1917 Singleton, R. C.
+1918 Gray, M.
+1919 Singleton, R. C.
+1920 Morris, J.
+1921 Singleton, R. C.
+1923 Rosin, R. F.
+1924 McKellar, A. C.
+1925 Morse, S. P.
+1926 Berns, G. M.
+1927 Salton, G.
+1928 Ulrich, E. G.
+1929 Schroeder, M. R.
+1930 Kruskal, J. B.
+1931 Smith, L. B.
+1932 King, R. F.
+1933 Payne, W. H.
+1934 Redziejowski, R. R.
+1935 Arora, S. R.
+1936 Patt, Y. N.
+1937 Day, R. H.
+1938 Stimler, S.
+1939 Friedman, J.
+1940 Smith, O. K.
+1941 Field, J. B. F.
+1942 Vandergraft, J.
+1943 Farkas, I.
+1944 Levine, D. A.
+1945 Arden, B. W.
+1946 Ku, S. Y.
+1947 Lowry, E. S.
+1948 Cannon, J. J.
+1949 Wagner, R. A.
+1950 Raduchel, W. J.
+1951 Fuchs, E.
+1953 Redish, K. A.
+1954 Stewart, G. W.	
+1955 Sale, A. H. J.
+1956 Black, N. A.
+1957 Shapiro, S. C.
+1958 Thompson, R. J.
+1959 Morgan, H. L.
+1960 Betourne, C.
+1961 Tiernan, J. C.
+1962 Mathews, M. V.
+1963 Rokne, J.
+1964 Bernstein, A.
+1965 Ehrman, J. R.
+1966 Wilson, W. J.
+1967 Bratley, P.
+1968 Knight, W.
+1969 Van Emden, M. H.
+1972 Cheney, C. J.
+1973 Bell, J. R.
+1974 Conrow, K.
+1975 Mifsud, C. J.
+1976 Lum, V. Y.
+1977 LaFata, P.
+1978 Smith, L. B.
+1979 Stehfest, H.
+1980 Peto, R.
+1981 Holmgren, B.
+1982 Wallick, G. C.
+1983 Seppanen, J. J.
+1984 Stone, R. A.
+1985 Chang, S. K.
+1986 Hill, G. W.
+1987 Hill, G. W.
+1988 Earley, J.
+1989 Woods, W. A.
+1990 Dunham, C. B.
+1991 Bavel, Z.
+1992 Lamport, L.
+1993  Cody, W. J.
+1994 Dial, R. B.
+1995 Abdali, S. K.
+1996 Smith, R. R.
+1997 van Emden, M. H.
+1998 Ehrlich, L. W.
+1999 Wilson, M. W.
+2000 Kimble, G. W.
+2001 Moler, C. B.
+2002 Hirschsoln, I.
+2003 Bracchi, G.
+2004 Bouknight, W. J.
+2006 Kerpelman, C.
+2008 Wise Jr., W. R.
+2009 Proll, L. G.
+2010 McKay, J.
+2011 Hubner, H.
+2012 Hubner, H.
+2013 Hubner, H.
+2014 Fielding, K.
+2015 Ichbiah, J. D.
+2016 Gintell, J. W.
+2017 Brawn, B. S.
+2018 Day, A. C.
+2019 Nagy, G.
+2020 Nielsen, N. R.
+2021 Hunt, B.R.
+2022 Pomeranz,J. E.
+2023 Baecker, H. D.
+2024 Sattley, K.
+2025 Sale, A. H. J.
+2026 Ng, E. W.
+2027 Bray, T.
+2028 Bradley, G. H.
+2029 Paciorek, K. A.
+2030 Woods, W. A.
+2031 Bradley, G. H.
+2032 Coffman Jr., E. G.
+2033 Bloom, B. H.
+2034 Waite, W. M.
+2035 Wilkes, M. A.
+2036 Grant, C. A.
+2037 Chase, P. J.
+2038 Chase, P. J.
+2039 Shriver, B.
+2040 Wallick, G. C.
+2041 Chandler, J. P.
+2042 London, R. L.
+2043 Stewart, G. W.
+2044 Chase, P. J.
+2045 Chase, P. J.
+2046 Codd, E. F.
+2047 Stewart, G. W.
+2048 Hillstrom, K. E.
+2049 Linz, P.
+2050 Damerau, F. J.
+2051 Frantz, D. G.
+2052 Grimes, J. E.
+2053 Muthukrishnan, C. R.
+2054 Elder, H. A.
+2055 Lachenmaier, R.
+2056 Proll, L. G.
+2057 Knop, R. E.
+2058 Laflin, S.
+2059 Crespi-Reghizzi, S.
+2060 Reynolds, J. C.
+2061 Loeckx, J.
+2062 Sasser, W. E.
+2063 Vere, S.
+2064 Sitton, G. A.
+2065 Hodes, L.
+2066 Knight, K. R.
+2067 DeVries, R. C.
+2068 Smith, J. L.
+2069 Heess Jr., W. F.
+2070 Hsiao, D.
+2071 Fosdick, L. D.
+2072 Cook, N. D.
+2073 Guignard, M. M.
+2074 Lyness, J. N.
+2075 Pankiewicz, W.
+2076 Nilson, E. N.
+2077 Pomeranz, J. E.
+2078 Eastman, C. M.
+2079 Wirth, N.
+2080 Hansen, P. B.
+2081 Bayer, R.
+2082 Mills, H. D.
+2083 DeSalvio, A. J.
+2084 Maurer, H. A.
+2085 Dempster, J. R. H.
+2086 Kailas, M. V.
+2087 Pager, D.
+2088 Bray, T. A.
+2089 Rapp, D. G.
+2090 Levine, M. J.
+2091 Cardenas, A. F.
+2092 Schwarcz, R. M.
+2093 Schweikert, D. G.
+2094 Watson, G. A.
+2095 Batson, A.
+2096 Slagle, J. R.
+2097 Fenichel, R. R.
+2098 Hill, G. W.
+2099 Knoble, H. D.
+2100 Barrodale, I.
+2101 Spath, H.
+2102 Spath, H.
+2103 White, J. S.
+2104 White, J. S.
+2105 Robins, M. F.
+2106 Ness, D. N.
+2107 Bell, J. R.
+2108 Jones, B.
+2109 Radke, C. E.
+2110 Earley, J.
+2111 Morgan, H. L.
+2112 Vere, S.
+2113 von Glasersfeld, E.
+2114 Hsiao, D.
+2115 Payne, W. H.
+2118 Griffin, R.
+2119 Gautschi, W.
+2120 Dunham, K. B.
+2121 McKay, J. K. S.
+2122 Butler, E. L.
+2123 Schaffer, H. E.
+2124 Stehfest, H.
+2125 Montanari, U.
+2126 Irons, E. T.
+2127 Simmons, R. F.
+2128 Mullery, A. P.
+2129 Gautschi, W.
+2130 Lowe, T. C.
+2131 Gustafson, S.
+2132 Gustafson, S.
+2133 Bourgeois, F.
+2134 Bourgeois, F.
+2135 Gustafson, S.
+2136 Blumberg, J. W.
+2137 Rochfeld, A.
+2138 Wulf, W. A.
+2139 Harrison, M. C.
+2140 Mullin, J. K.
+2141 Amidon, E. L.
+2142 Gordon,R.
+2143 Bolub, G. H.
+2144 Malcolm, M. A.
+2145 Aramaki, I.
+2146 Shell, D. L.
+2147 Hamblen, J. W.
+2148 Branquart, P.
+2149 Lyness, J. N.
+2150 Courois, P. J.
+2151 Nemeth, A. G.
+2152 Newman, W. M.
+2153 Oldehoeft, A. E.
+2154 ANSI Subcommittee X3J3
+2155 Earley, J.
+2156 Fenichel, R. R.
+2157 Flores, I.
+2158 Liniger, W.
+2159 Phillips, D. L.
+2160 Wong, E.
+2161 Paton, K.
+2162 Isoda, S.
+2163 Teichroew, D.
+2164 Moses, J.
+2165 Barton, D.
+2166 Jefferys, W. H.
+2167 Moses, J.
+2168 Fenichel, R. R.
+2169 Hall Jr., A. D.
+2170 Hearn, A. C.
+2171 Raduchel, W. J.
+2172 Cermak, J.
+2173 McVitie, D. G.
+2174 McVitie, D. G.
+2175 Ramamoorthy, C. V.
+2176 Ferguson, D. E.
+2177 Paton, K.
+2178 Pratt, T. W.
+2179 DeRemer, F. L.
+2180 Bernstein, A. J.
+2181 McKenney, J. L.
+2182 Zelkowitz, M.
+2183 Walker, R. J.
+2184 Fraser, A. G.
+2185 Glaswin, H. T.
+2186 Bosarge Jr., W. E.
+2187 Amarel, S.
+2188 Foley, J. D.
+2189 Harada, K.
+2190 House, F. R.
+2191 Chambers, J. M.
+2192 Morris Jr., J. H.
+2193 Fenichel, R. R.
+2194 Richards, D. L.
+2195 Montanari, U.
+2196 Krolak, P.
+2197 Nielsen, N. R.
+2198 Codasyl Systems Committee
+2199 McNamee, J. M.
+2200 Stein, M. L.
+2201 Talbot, P. A.
+2202 Tucker, A. B.
+2203 Lum, V. Y.
+2204 Wirth, N.
+2205 Gear, C. W.
+2206 Howell, J.
+2207 Gear, C. W.
+2208 Williams, J. G.
+2209 Winters, W. K.
+2210 Manna, Z.
+2211 Noll, A. M.
+2212 Tolman, H.
+2213 Dell, A. M.
+2214 Rokne, J.
+2215 Slagle, J. R.
+2216 Hurwitz Jr., H.
+2217 Slagle, J. R.
+2218 Nielsen, N. R.
+2219 Bernstein, A. J.
+2220 Shwayder, K.
+2221 Pollack, S. L.
+2222 Redish, K. A.
+2223 Kolm, A.
+2224 Lucas Jr., C. W.
+2225 Coleman, M. W.
+2226 Proll, L. G.
+2227 Hoare, C. A. R.
+2228 Holt, R. C.
+2229 Brucke, R. A.
+2230 Bracchi, G.
+2231 Chang, S.
+2232 Klinger, A.
+2233 Hammer, C.
+2234 Heiberger, R. M.
+2235 Marshall, D. R. T.
+2236 Frisch, M. J.
+2237 Schuegraf, E.
+2238 Schuegraf, E.
+2239 Hallet, P.
+2240 Sullins, W. L.
+2241 Boland, W. R.
+2242 Boland, W. R.
+2243 Boland, W. R.
+2244 Boland, W. R.
+2245 Sherman, S.
+2246 Brown, P. J.
+2247 Parnas, D. L.
+2248 Moore, J.
+2249 Barr, D. R.
+2250 Ahrens, J. H.
+2251 Luccio, F.
+2252 Earley, J.
+2253 Bayer, R.
+2254 Phillips, J. R.
+2255 Smoliar, S. W.
+2256 Eisenberg, M. A.
+2257 Kennedy, S.
+2258 Lum, V. Y.
+2259 Fullerton, W.
+2260 March, D. L.
+2261 Ramberg, J. S.
+2262 Baecker, H. D.
+2263 Verhelst, M.
+2264 Henderson, P.
+2265 Ledgard, H. F.
+2266 Patrick, M. L.
+2267 Malcolm, M. A.
+2268 Fox, P.
+2269 Robertson, J. D.
+2270 Akima, H.
+2271 Ershov,A. P.
+2272 Frazer, W. D.
+2273 Dathe, G.
+2274 Simmons, R.
+2275 Hanson, R. J.
+2276 Ahrens, J. H.
+2277 Morris, J. B.
+2278 Tan, K. C.
+2279 Rubinstein, R.
+2280 Parnas, D. L.
+2281 Khalil, H. M.
+2282 Gregory, J.
+2283 Deutsch, E. S.
+2284 Bartels, R. H.
+2285 Ravindran, A. 
+2286 Richman, P. L.
+2287 Mor, M.
+2288 Ghosh, S. P.
+2289 Levitt, K. N.
+2290 Purdom Jr., P. W.
+2291 Squire, W.
+2292 Read, R. C.
+2293 Jones, P. R.
+2294 Morris Jr., J. H.
+2295 van der Poel, W. L.
+2296 Bernstein, H. J.
+2297 Oden, P. H.
+2298 Rosin, R. F.
+2299 Benjamin, A. J.
+2300 Helbig, R. E.
+2301 Crowe, D.
+2302 Borodin, A.
+2303 Alt, F. L.
+2304 Sprague, R. E.
+2305 Bauer, F. L.
+2306 Knuth, D. E.
+2307 Salton, G.
+2308 Sturman, G. M.
+2309 Zinn, K. L.
+2310 Sedelow, S. Y.
+2311 Benjamin, R. I.
+2312 Rice, J. R.
+2313 Bachman, C. W.
+2314 Bobrow, D. G.
+2315 Fosdick, L. D.
+2316 Sammet, J. E.
+2317 Rosen, S.
+2318 Kimbleton, S. R.
+2319 Lynch, W. C.
+2320 Hansen, P. B.
+2321 Fraser, A. G.
+2322 Foster, C. C.
+2323 Moses, J.
+2324 Shanno, D. F.
+2325 Traub, J. F.
+2326 Manna, Z.
+2327 Arbib, M. A.
+2328 Koffman, E. B.
+2329 Kandel, A.
+2330 Einarsson, B.
+2331 Johnson, S. C.
+2332 Sale, A. H. J.
+2333 Schrack, G. F.
+2334 Proll, L. G.
+2335 Niessner, H.
+2336 Kolbig, K. S.
+2337 Pohl, I.
+2338 Iguchi, K.
+2339 O'Reagan, R. T.
+2340 Martin, D. F.
+2341 Gimpel, J. F.
+2342 Gilbert, P.
+2343 Spacek, T. R.
+2344 Blatny, J.
+2345 Ashenhurst, R. L.
+2346 Yohe, J. M.
+2347 Linz, P.
+2348 Bron, C.
+2349 Hurst, R. L.
+2350 Gentleman, W.M.
+2351 Harter, R.
+2352 Dunham, C. B.
+2353 Greenspan, D.
+2354 Gentleman, W. M.
+2355 Gentleman, W. M.
+2356 Parnas, D. L.
+2357 Christman, R. D.
+2358 Bensoussan, A.
+2359 Mullin, J. K.
+2360 Hu, T. C.
+2361 Walden, D. C.
+2362 Moler, C. B.
+2363 Whitney, V. K. M.
+2364 Kuki, H.
+2365 Moler, C. B.
+2366 Kuki, H.
+2367 Horowitz, E.
+2368 Chase, S. M.
+2369 Matsushita, Y.
+2370 Herbst, N. M.
+2371 Walden, D. C.
+2372 Conway, R. W.
+2373 Denning, P. J.
+2374 Coffman Jr., E. G.
+2375 Teorey, T. J.
+2376 Habermann, A. N.
+2377 Schroeder, M. D.
+2378 Gaines, R. S.
+2379 Liskov, B. H.
+2380 Bobrow, D. G.
+2381 Flores, I.
+2382 Gordon, R.
+2383 Moorer, J. A.
+2384 Williamson, H. 
+2385 Jenkins, M. A.
+2386 Tucker, A. B.
+2387 Oldehoeft, A. E.
+2388 Martin, W. A.
+2389 Eastman, C. M.
+2390 Pager, D.
+2391 Schrack, G. F.
+2392 Macleod, I. D. G.
+2393 Einarsson, B.
+2394 Salzer, H. E.
+2395 Shrager, R. I.
+2396 McCalla, G. I.
+2397 Shell, D. L.
+2398 Dwyer, T. A.
+2399 Irons, E. T.
+2400 Duda, R. O.
+2401 Levialdi, S.
+2402 Lesk, A. M.
+2403 Herriot, J. G.
+2404 Gautschi, W.
+2405 Kubicek, M.
+2406 Sibley, E. H.
+2407 Couger, J. D.
+2408 Ehrlich, L. W.
+2409 Stenger, F.
+2410 Salzer, H. E.
+2411 Wegner, E.
+2412 Feldman, J. A.
+2413 Denning, P. J.
+2414 Lam, C.
+2415 Patterson, T. N. L.
+2416 Brenner, N.
+2417 Ehrlich, G.
+2418 Hill, G. W.
+2419 Reinsch, C. H.
+2420 Slagle, J. R.
+2421 Jordan, B. W. Jr.
+2422 James, E. B.
+2423 Mickunas, M. D.
+2424 Fabry, R. S.
+2425 Bachman, C. W.
+2426 Lewart, C. R.
+2427 Donnelly,T. G.
+2428 Burkowski, F. J.
+2429 Saylor, P. E.
+2430 Syslo,M. M.
+2431 Robers, P. D.
+2432 Mifsud, C. J.
+2433 Millstein, R. E.
+2434 Prieve, B. G.
+2435 Hirschberg, D. S.
+2436 Lampson, B. W.
+2437 Lum, V. Y.
+2438 Bobrow, D. G.
+2439 McGeachie, J. S.
+2440 Driessen, H. B.
+2441 Williamson, H.
+2442 Lawrence, E. E.
+2443 Roy, M. K.
+2444 Bron, C.
+2445 Fencl, Z.
+2446 Hunter, D. B.
+2447 Barnhill, R. E.
+2448 Zelkowitz, M. V.
+2449 Gates, G. W.
+2450 Rodriguez-Rosell, J.
+2451 Casey, R. G.
+2452 Cardenas, A. F.
+2453 Ganapathy, S.
+2454 Buzen, J. P.
+2455 Foster, C. C.
+2456 Peterson, W. W.
+2457 Manna, Z.
+2458 Williams, E. J.
+2459 Byrne, J. G.
+2460 Good, A. J.
+2461 Watkins, R. P.
+2462 DeMorgan, R. M.
+2463 Andrejkova, G.
+2464 Richardson, J. A.
+2465 Piessens, R.
+2466 Liu, C. N
+2467 Goldstein, R. B.
+2468 Machura, M.
+2469 Misunas, D.
+2470 MacLennan, B. J.
+2471 Smith, M. H.
+2472 Kernighan, B. W.
+2473 Macleod, I. D. G.
+2474 Nikolai, P. J.
+2475 Fiala, F.
+2476 Hall, P. A. V.
+2477 Bochmann, G. V.
+2478 Kandel, A.
+2479 McFarlan, F. W.
+2480 Rosin, R. F.
+2481 Gelenbe, E.
+2482 Howard, J. H. Jr.
+2483 Kozdrowicki, E. W.
+2484 Huang, J. C.
+2485 Nolan, R. L.
+2486 Alt, F. L.
+2487 Hoskins, W. D.
+2488 Ferguson, J.
+2489 Beyer, T.
+2490 Hopcroft, J.
+2491 Bell, J. R.
+2492 Strunz, H.
+2493 Shneiderman, B.
+2494 Ling, R. F.
+2495 Stockhausen, P. F.
+2496 Stone, H. S.
+2497 Hill, J. C.
+2498 Gelenbe, E.
+2499 Hamlet, R. G.
+2500 Frailey, D. J.
+2501 Fajman, R.
+2502 Estell, R. G.
+2503 Wexelblat, R. L.
+2504 McMorrow, C. H.
+2505 Roy, M. K.
+2506 Sale, R. H. J.
+2507 Howell, J.
+2508 Wheeler, R. E.
+2509 Obradovic, D.
+2510 Holmgren, B.
+2511 Bayer, G.
+2512 Vos, H.
+2513 Reingold, E. M.
+2514 Mercer, A.
+2515 Corneil, D. G.
+2516 Salasin, J.
+2517 King, P. J. H.
+2518 Low, D. W.
+2519 Pager, D.
+2520 Ragland, L. C.
+2521 Broucke, R.
+2522 Rodriguez-Rosell, J.
+2523 Strong III, J. P.
+2524 Burkhard, W. A.
+2525 Kuki, H.
+2526 Williams, J.G.
+2527 Hassitt, A.
+2528 Lau, J.
+2529 Chang, S.
+2530 Wagner, R. A.
+2531 Payne, W. H.
+2532 Bookstein, A.
+2533 Salzer, H. E.
+2534 Conway, R. W.
+2535 Pack, C. D.
+2536 Feinroth, Y.
+2537 Wagner, R. A.
+2538 Austing, R. H.
+2539 Fritsch, F. N.
+2540 Denning, P. J.
+2541 Balzer, R. M.
+2542 Graham, R. M.
+2543 Brent, R. P.
+2544 Rokne, J.
+2545 Gimpel, J. F.
+2546 Crespi-Reghizzi, S.
+2547 Merrill, R. D.
+2548 Hill, G. W.
+2549 Knop, R. E.
+2550 Gallaher, L. J.
+2551 Atkins,M. S.
+2552 Bays, C.
+2553 Blount, S. E.
+2554 Crawford, C. R.
+2555 Richman, P. L.
+2556 James, E. B.
+2557 Muraoka, Y.
+2558 Morris, J. H. Jr.
+2559 Bays, C.
+2560 Shedler, G. S.
+2561 Skinner, C. W.
+2562 Tesch, G.
+2563 Bron, C.
+2564 Ellis, T. M. R.
+2565 Brent, R. P.
+2566 Pomeranz, J.
+2567 Chu, S. C.
+2568 Salazar, A.
+2569 Wallace, N. D.
+2570 Adam, T. L.
+2571 Strauss, J. C.
+2572 Press, L. I.
+2573 Knuth, D. E.
+2574 Evans, R. V.
+2575 Van Rijsbergen, C. J.
+2576 Hanson, D. R.
+2577 Brown, J. A.
+2578 Dijkstra, E. W.
+2579 Freiburghouse, R. A.
+2580 Rader, G. M.
+2581 Miller, P. L.
+2582 Ferrari, D.
+2583 Sterling, T. D.
+2584 Gilchrist, B.
+2585 Krogh, F. T.
+2586 Stockhausen, P. F.
+2587 Sreenivarsan, K.
+2588 Klemes, J.
+2589 Proll, L. G.
+2590 Kopelaar, H.
+2591 Veillon, F.
+2592 Charnes, A.
+2593 Canaday, R. H.
+2594 Shneiderman, B.
+2595 Slutz, D. R.
+2596 Shen, K. K.
+2597 Hoare, C. A. R.
+2598 Shwayder, K.
+2599 Young, J. W.
+2600 Eidson, H. D.
+2601 Burrell, K. H.
+2602 Watkins, S. L.
+2603 Schkolnick, M.
+2604 Cheung, T.
+2605 Aberth, O.
+2606 Willers, I. M.
+2607 ACM Committee
+2608 Acton, F. S.
+2609 Lagerlof, R. O. E.
+2610 Stroud, A. H.
+2611 Shere, K. D.
+2612 Bultheel, A.
+2613 McKay, J.
+2614 Crandall, K. C.
+2615 Lyche, T.
+2616 Cavouras, J. C.
+2617 Denning, P. J.
+2618 Lamport, L.
+2619 Neufeld, G. A.
+2620 Friedman, T. D.
+2621 Purdy, G. B.
+2622 Evans, A. Jr.
+2623 Hahn, B.
+2624 Popek, G. J.
+2625 Fabry, R. S.
+2626 Saltzer, J. H.
+2627 Bruno, J.
+2628 Fuller, S. H.
+2629 Ritchie, D. M.
+2630 Minieka, E.
+2631 Barton, I. J.
+2632 Wulf, W.
+2633 Adams, J.
+2634 Slysz, W. D.
+2635 Boulton, D. M.
+2636 Page, R. L.
+2637 Ellis, T. M. R.
+2638 Gaither, B.
+2639 Piessens, R.
+2640 Piessens, R.
+2641 Page, R. L.
+2642 Barrodale, I.
+2643 Gimpel, J. F.
+2644 Henschen, L.
+2645 CCohen, J.
+2646 Gold, D. E.
+2647 Gentleman, W. M.
+2648 Wunderlich, M. C.
+2649 Tsao, N.
+2650 Wagner, R. A.
+2651 Wegbreit, B.
+2652 Shaw, M.
+2653 Einarsson, B.
+2654 Ehrich, G.
+2655 Cline, A. K.
+2656 Cline, A. K.
+2657 Lee, R. C. T.
+2658 Balfour, A.
+2659 Abrahams, P. W.
+2660 Simmons, G. C.
+2661 Sterling, T. D.
+2662 Freeman, P.
+2663 Lucas, H. C. Jr.
+2664 Even, S.
+2665 Lindstrom, G.
+2666 Smith, G.
+2667 Boyse, J. W.
+2668 Franklin, M. A.
+2669 Saltzer, J. H.
+2670 Krogh, F. T.
+2671 Stone, H. S.
+2672 Smoliar, S. W.
+2673 Ackerman, A. F.
+2674 Barrett, R. C.
+2675 Ravindran, A.
+2676 Withers, D. H.
+2677 Bosten, N. E.
+2678 Wright, T.
+2679 Loeser, R.
+2680 Morgan, H. L.
+2681 Balkovich, E.
+2682 Sreenivasan, K.
+2683 Wegbreit, B.
+2684 Ledgard, H. F.
+2685 Lamport, L.
+2686 Ramberg, J. S.
+2687 Jordan, B. W. Jr.
+2688 Rothnie, J. B. Jr.
+2689 Lucas, H. C. Jr.
+2690 Knott, G. D.
+2691 King, P. J. H.
+2692 Sutherland, I. E.
+2693 Akima, H.
+2694 Piessens, R.
+2695 Gibbs, N. E.
+2696 Akima, H.
+2697 Malcolm, M. A.
+2698 Lyon, G.
+2699 Schwartz, J. T.
+2700 Lipton, R. J.
+2701 Graham, S. L.
+2702 Hunt, H. B. III
+2703 Jazayeri, M.
+2704 Goodenough, J. B.
+2705 Naur, P.
+2706 Kou, L. T.
+2707 Bitner, J. R.
+2708 Graham, S. L.
+2709 Ledgard, H. F.
+2710 Boyce, R. F
+2711 Salton, G.
+2712 Reiser, M.
+2713 Cotton, I.
+2714 Gavril, F.
+2715 Astrahan, M. M.
+2716 Smith, J. M.
+2717 Shu, N. C.
+2718 Gerritsen, R.
+2719 Wegbreit, B.
+2720 Piepmeier, W. F.
+2721 Claudson, R. M.
+2722 Bently, J. L.
+2723 Steele, G. L. Jr.
+2724 Todd, J.
+2725 Vaucher, J. C.
+2726 Shwayder, K.
+2727 Lamport, L.
+2728 Ghosh, S. P.
+2729 Smith, A. J.
+2730 Sharo, S. C.
+2731 Cotton, I. W.
+2732 Dijkstra, E. W.
+2733 Aho, A. V.
+2734 Shore, J. E.
+2735 Weber, R. E.
+2736 Bobrow, D. G.
+2737 Freeman, H.
+2738 Parnas, D. L.
+2739 Sager, N.
+2740 Lauesen, S.
+2741 Courtois, P. J.
+2742 Wyman, F. P.
+2743 Harper, L. H.
+2744 Soule, S.
+2745 Hirschberg, D. S.
+2746 Aho, A. V.
+2747 Cranston, B.
+2748 Dewar, R. B. K.
+2749 Babich, A. F.
+2750 Lum, V. Y.
+2751 Phong, B. T.
+2752 Gibbs, N. E.
+2753 Pfefferkorn, C. E.
+2754 Horowitz, S. L.
+2755 Mills, H. D.
+2756 Wasserman, A. I.
+2757 Fox, B.L.
+2758 Evans, D. J.
+2759 Fritsch, F. N.
+2760 Doran, C. J.
+2761 Mashburn, R. G.
+2762 Piessens, R.
+2763 Gibbs, N. E.
+2764 Wilks, Y.
+2765 Cardenas, A. F.
+2766 Fisher, D. A.
+2767 Vaucher, J. G.
+2768 Hinds, J. A.
+2769 Warren, H. S. Jr.
+2770 Batagelj, V.
+2771 Braid, I. C.
+2772 Smith, G.
+2773 Shen, K. K.
+2774 Frederick, L. W.
+2775 Ginsberg, E. S.
+2776 Chambers, J. A.
+2777 Parnas, D. L.
+2778 Sluis, A.
+2779 Shampine, L. F.
+2780 Erisman, E. M.
+2781 Whitt, J. D.
+2782 Karp, R. A.
+2783 Floyd, R. W.
+2784 Floyd, R. W.
+2785 Lawrie, D. H.
+2786 Kernighan, B. W.
+2787 Johnston, H. C.
+2788 Kimme, C.
+2789 Magnuski, H. S.
+2790 Syslo, M. M.
+2791 Hancock, T. W.
+2792 Skovgaard, O.
+2793 Knight,W.
+2794 VanderBrug, G. J.
+2795 Goldman, N. M.
+2796 Hoare, C. A. R. 
+2797 Young, J. W.
+2798 Burnett, G. J.
+2799 Hanson, R. J.
+2800 Liniger, W.
+2801 Chi Chen, T.
+2802 Mills, H. D.
+2803 Hestenes, M. R.
+2804 Marcus, M.
+2805 van der Sluis, A.
+2806 Birkhoff, G.
+2807 Peters, G.
+2808 Todd, J.
+2809 Bauer, F. L.
+2810 Finerman, A.
+2811 Stockman, G.
+2812 Nunamaker, J. F. Jr.
+2813 Arden, B.
+2814 Sammet, J. E.
+2815 Hamlet, R. G.
+2816 Maruyama, K.
+2817 Eswarran, K..
+2818 Baskett, F.
+2819 Rubin, F.
+2820 Wilcox, T. R.
+2821 Ledgard, H. F.
+2822 Ross, D. T.
+2823 Montanelli, R. G. Jr.
+2824 Duong-Kien, C.
+2825 Frane, J. W.
+2826 Burtnyk, N.
+2827 Levin, J.
+2828 Clark, J. H.
+2829 Blinn, J. F.
+2830 Severance, D. G.
+2831 Chu, W. W.
+2832 Wegbreit, B.
+2833 Deutsch, L. P.
+2834 Bitner, J. R.
+2835 Walter, K. G.
+2836 Loui, M. C.
+2837 Yap, C. K.
+2838 Wadler, P. L.
+2839 Hirschberg, D. S.
+2840 Harrison, M. A.
+2841 Clark, J. H.
+2842 Tennent, R. D.
+2843 Donovan, J. J.
+2844 Gonnet, G. H.
+2845 Burton, W.
+2846 Maly, K.
+2847 Fishman, G. S.
+2848 Cheng, C.
+2849 Metcalfe, R. M.
+2850 King, J. C.
+2851 Keller, R. M.
+2852 Conte, S. D.
+2853 Knott, G. D.
+2854 Steele, G. L. Jr.
+2855 Clark, D. W.
+2856 Schumacher, H.
+2857 Wise, D. S.
+2858 Frieder, G.
+2859 Baskett, F.
+2860 Severance, D.
+2861 Taulbee, O. E.
+2862 Chu, W. W.
+2863 Prieve, B. G.
+2864 Madison, A. W.
+2865 Owicki, S.
+2866 Howard, J.H.
+2867 Habermann,A. N.
+2868 Lampson, B. W.
+2869 Millen, J. K.
+2870 Denning, D. E.
+2871 Katz, S.
+2872 Fagin, R.
+2873 Raymond, J.
+2874 Lientz, B. P.
+2875 Smoot, O. R.
+2876 Minsky, N.
+2877 Allen, J. E.
+2878 Babad, J. M.
+2879 Newell, A.
+2880 Artzy, E.
+2881 Fagin, R.
+2882 Siler, K. F.
+2883 Martelli, A.
+2884 Ives, F. M.
+2885 Rivest, R.
+2886 Bochmann, G. V.
+2887 Litecky, C. R.
+2888 Florentin, J. J.
+2889 Karlton, P. L.
+2890 Agnew, C. E.
+2891 Wilhelm, N. C.
+2892 Kleinrock, L.
+2893 Danziger, J. N.
+2894 Adrams, M. D.
+2895 Greif, I.
+2896 Gries, D.
+2897 Carter, J. L.
+2898 Kessels, J. L. W.
+2899 Lopez, A. A.
+2900 Grapa, E.
+2901 Blasgen, M. W.
+2902 Nielsen, N. R.
+2903 Bird, R. S.
+2904 Cocke, J.
+2905 Sprugnoli, R.
+2906 Hammer, M.
+2907 Manna, Z.
+2908 Roy, M. K.
+2909 Wirth, N.
+2910 Stockman, G. C.
+2911 Shore, J. E.
+2912 Lamport, L.
+2913 Crow, F. C.
+2914 Turner, R.
+2915 Lee, J. A. N.
+2916 Boyer, R. S.
+2917 Schneider, B. R. Jr.
+2918 Smith, A. J.
+2919 Ivie, E. L.
+2920 Devillers, R.
+2921 LaLonde, W. R.
+2922 Montangero, C.
+2923 Rosen, B. K.
+2924 Wu, Sheng-Chuan
+2925 Fuchs, H.
+2926 McCreight, E. M.
+2927 Mairson, H. G.
+2928 Giffor, D. K.
+2929 Scheifler, R. W.
+2930 Austing, R. H.
+2931 Scott, D. S.
+2932 Rabin, M. O.
+2933 Francez, N.
+2934 Lawler, E. L.
+2935 Taulbee, O. E.
+2936 Franta, W. R.
+2937 Gannon, J. D.
+2938 Wirth, N.
+2939 Liskov, B.
+2940 Shaw, M.
+2941 Geschke, C. M.
+2942 Brownlee, J. N.
+2943 Ashcrof, E. A.
+2944 Barth, J. M.
+2945 Denning, D. E.
+2946 Kessels, J. L. W.
+2947 Schneider, B. R. Jr.
+2948 Heckel, P. G.
+2949 Tajibnapis, W. D.
+2950 Ruschitzka, M.
+2951 Mamrak, S. A.
+2952 Warren, H. S. Jr.
+2953 Bird, R. S.
+2954 Robson J. M.
+2955 Peterson, J. L.
+2956 Gries, D.
+2957 Smith, J. M.
+2958 Guttag, J.
+2959 Zloof, M. M.
+2960 Ledgard, H. F.
+2961 Shneiderman, B.
+2962 Taulbee, O. E.
+2963 Hunt, J. W.
+2964 Milman, Y.
+2965 Hanani, M. Z.
+2966 Shapiro, M.
+2967 Stillman, N. J.
+2968 Baer, J. L.
+2969 Morgan, H. L.
+2970 Fishman, G. S.
+2971 Holt, R. C.
+2972 Robinson, L.
+2973 Thompson, C. D.
+2974 Bandyopadhyay, S. K.
+2975 Hollander, C.R.
+2976 Yao, S. B.
+2977 Lucac, H. C. Jr.
+2978 Maruyama, K.
+2979 Findler, N. V.
+2980 Tanimoto, S. L.
+2981 Morris, J. H. Jr.
+2982 Bertsch, E.
+2983 Bays, C.
+2984 Borovits, I.
+2985 Nolan, R. L.
+2986 Hunt, H. B. III
+2987 Burton W.
+2988 Brown, R. M.
+2989 Lunde, A.
+2990 Yu, C. T.
+2991 Clapson, P.
+2992 Knott, G. D.
+2993 Kotiah, T. C. T.
+2994 Bresenham, J.
+2995 Courtois, P. J.
+2996 Easton, M. C.
+2997 Preparata, F. P.
+2998 Clark, D. W.
+2999 Muller, M. E.
+3000 Batson, A. P.
+3001 Zobrist, A. L.
+3002 Babad, J. M.
+3003 Austing, R. H.
+3004 Van Gelder, A.
+3005 Tanenbaum, A.S.
+3006 Franklin, M.A.
+3007 Rabin, M.O.
+3008 DeMillo, R.A.
+3009 Kosaraju, S.R.
+3010 Anderson, R.E.
+3011 Dutton, W.H.
+3012 Lucas, H.C.Jr.
+3013 Schachter, B.J.
+3014 Manna, Z.
+3015 Herman, G.T.
+3016 Stewart, W.J.
+3017 Held, G.
+3018 Kou, L.T.
+3019 Austing, R.H.
+3020 Auslander, M.A.
+3021 Rivest, R.L.
+3022 Mamrak, S.A.
+3023 Case, R.P.
+3024 Russell, R.M.
+3025 Bell, C.G.
+3026 Borgherson, B.R.
+3027 Ibbett, R.N.
+3028 Lavington, S.H.
+3029 Fuller,S.H.
+3030 Spitzen, J.M.
+3031 Guttag, J.V.
+3032 Dalal, Y.K.
+3033 Martelli, A.
+3034 Ibramsha, M.
+3035 Wetherbe, J.C.
+3036 Peterson, J.L.
+3037 Gries, D.
+3038 Needham, R.M.
+3039 Dijkstra, E.W.
+3040 Freuder, E.C.
+3041 Sheil, B.A.
+3042 Luccio, F.
+3043 Hansen, P.
+3044 Friedman, D.P.
+3045 Ripley, D.G.
+3046 Tadikamalla, P.R.
+3047 Horn, B.K.P.
+3048 Kumar, B.
+3049 Wendorf, J.W.
+3050 Lyons, N.R.
+3051 Franta, W.R.
+3052 Easton, M.C.
+3053 Lyon, G.
+3054 Sedgewick, R.
+3055 McMaster, C.L.
+3056 Morris, R.
+3057 Chang, S.K.
+3058 Shneiderman, B.
+3059 Towsley, D.
+3060 Brainerd, W.
+3061 Tenenbaum, A.
+3062 Ward, S.A.
+3063 Maly, K.
+3064 Ulrich, E.G.
+3065 Ottmann, T.T.
+3066 Myers, G.J.
+3067 Denning, P.J.
+3068 Popek, G.J..
+3069 Barth, J.M.
+3070 Schwetman, H.D.
+3071 Harris, R.A.
+3072 Brice, R.S.
+3073 Hoare, C.A.R.
+3074 Morris, F.L.
+3075 Hirschberg, D.S.
+3076 Kling, R.
+3077 Backus, J.
+3078 Chattergy, R.
+3079 Shostak, R.E.
+3080 Samet, H.
+3081 Baker, H.G. Jr.
+3082 Lamport, L.
+3083 Halatsis, C.
+3084 Perl, Y.
+3085 Chin, F.Y.
+3086 Fredman, M.L.
+3087 Waltz, D.L.
+3088 Teory, T.J.
+3089 Gelenbe, E.
+3090 Kling, R.
+3091 Chrysler, E.
+3092 Lientz, B.P.
+3093 Mickunas, M.D.
+3094 Cohen, J.
+3095 Driscoll, J.R.
+3096 Zweben, S.H.
+3097 Sites, R.L.
+3098 Tadikamalla, P.R.
+3099 Fleisher, J.M.
+3100 Hayes-Roth, F.
+3101 Hanson, D.
+3102 Karr, M.
+3103 Low, J.R.
+3104 Geller, M.
+3105 Jones, A.K.
+3106 Clark, D.W.
+3107 Cheng, R.C.H.
+3108 Even, S.
+3109 Vuillemin, J.
+3110 Szymanski, T.G.
+3111 Merkle, R.C.
+3112 Baker, H.G.
+3113 Lew, A.
+3114 Heckel, P.
+3115 Payne, W.H.
+3116 Boyse, J.W.
+3117 Colton, K.W.
+3118 Bongiovanni, G.C.
+3119 Sauer, C.H.
+3120 Banatre, J.P.
+3121 Arsac, J.J.
+3122 Taulbee, O.E.
+3123 Fairley, R.E.
+3124 Gull,W.E.
+3125 Morel, E.
+3126 Anderson, M.G.
+3127 Cheriton, D.R.
+3128 Reed, D.P.
+3129 Mendelson, H.
+3130 Austing, R.H.
+3131 Edgar, A.D.
+3132 Slagle, J.
+3133 Deliyanni, A.
+3134 Motzkin, D.
+3135 Lesk, A.M.
+3136 Cale, E.G.
+3137 Bucci, G.
+3138 Hanson, R.J.
+3139 Brelaz, D.
+3140 De Millo, R.A.
+3141 Chang, E.
+3142 Sterling, T.D.
+3143 Reynolds, J.C.
+3144 Manthey, M.J.
+3145 Lemos, R.S.
+3146 Busenberg, S.N.
+3147 Alter, S.
+3148 Feldman, J.A.
+3149 Shapira, R.
+3150 Winograd, T.
+3151 Preparata, F.P.
+3152 Fischer, P.C.
+3153 Hine, J.H.
+3154 Kowalski, R.
+3155 Floyd, R.W.
+3156 Hirschberg, D.S.
+3157 Dershowitz, N.
+3158 Denning, D.E.
+3159 Nelson, L.S.
+3160 Feldman, J.A.
+3161 McCracken, D.D., CCP
+3162 Galil, Z.
+3163 Raiha,K.J.
+3164 Hansen, W.J.
+3165 Nagy, G.
+3166 Chan, T.F.
+3167 West, D.H.D.
+3168 Laird, P.D.
+3169 Gudes, E.
+3170 Lamport, L.
+3171 Klint, P.
+3172 Lozano-Perez, T.
+3173 Mayer, R.E.
+3174 Morris, R.
+3175 Peleg, S.
+3176 Tarjan, R.E.
+3177 Shamir, A.
+3178 Kling, R.
+3179 Kraemer, K.L.
+3180 Lipis, A.H.
+3181 Long, R.H.
+3182 Parker, D.B.
+3183 Kraemer, K.L.
+3184 Nuar, P.
+3185 Dijkstra, E. W.
+3186 Dijkstra, E. W.
+3187 Blair, C.R.
+3188 Zemanek, H.
+3189 Stiegler, A. D.
+3190 Solomon, M.B.
+3191 Langdon, Glen G.
+3192 Vanderburgh, A.
+3194 Dunham, B.
+3195 Gorn, S.
+3196 Mooers, C. N.
+3197 Gorn, S.
+3198 Greem, J.
+3199 Gotlieb, C. C.
+3200 Cuthill, E.
+3201 Danby, J.
+3202 Bender, B.
+3203 Fletcher, J. G.
+3204 Korsvold, K.

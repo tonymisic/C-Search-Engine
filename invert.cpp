@@ -32,7 +32,8 @@ string stop_words_file = "data/stopwords.txt";
 string dictonary_file = "output/dictonary.txt";
 string postings_lists_file = "output/postings.txt";
 string titles = "output/titles.txt";
-
+string authors = "output/authors.txt";
+string pagerank = "output/pagerank.txt";
 // functions
 vector<string> split(string text);
 string lower(string text);
@@ -45,6 +46,7 @@ int main(int argc, char *argv[]) {
     ifstream in_file(document_collection_file);
     ofstream posts_out_file(postings_lists_file);
     ofstream document_titles(titles);
+    ofstream document_authors(authors);
     int position_counter = 1;
     map<string, int> occurences;
     map<string, vector<int>> positions;
@@ -66,6 +68,10 @@ int main(int argc, char *argv[]) {
             if (w[0] == i_l) {
                 current_ID = atoi(w[1].c_str());
             }
+            if (line == ".A") {
+                std::getline(in_file, line);
+                document_authors << current_ID << " " << line << "\n";
+            } 
             if (line == ".T" || line == ".W") {
                 if (line == ".T") {
                     position_counter = 0;
@@ -161,6 +167,28 @@ int main(int argc, char *argv[]) {
         document_titles.close();
         std::cout << "Data received.\n";
     }
+
+    ifstream in_file_pagerank(document_collection_file);
+    ofstream pageranks_file(pagerank);
+    std::cout << "Getting PageRank data...\n";
+    while ( std::getline(in_file_pagerank, line)) {
+        if (line == ".X") {
+            while (line != ".W" && line != ".T" && line != ".B" && line != ".A" && line != ".N" && line != ".K" && line != ".C") {
+                if (!std::getline(in_file_pagerank, line).eof()) {
+                    vector<string> words = split(line);
+                    if (words[0] == ".I") { break; }
+                    if (stoi(words[1]) == 5) {
+                        pageranks_file << stoi(words[0]) << " " << stoi(words[2]) << endl;
+                    }
+                } else {
+                    break;
+                }
+            }
+        }
+    }
+    std::cout << "PageRank Data received.\n";
+    pageranks_file.close();
+    in_file_pagerank.close();
     return 0;
 }
 
